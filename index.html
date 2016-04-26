@@ -9,57 +9,143 @@
   <link rel="stylesheet" href="resume.css" type="text/css" />
 </head>
 <body>
-<div id='container'><div id='contact'><p>
-<a href="https://raw.github.com/mwhite/resume/master/resume.md">Markdown</a> -&gt; <a href="https://raw.github.com/mwhite/resume/master/resume.pdf">PDF</a>, <a href="http://mwhite.github.com/resume">HTML</a>, and more
-</p><p>
-<a href="http://github.com/mwhite/resume">http://github.com/mwhite/resume</a>
-</p></div>
+<div id='container'>
+<div id="contact">
+<p>
+Read with
+</p>
+<p>
+<a href="https://raw.github.com/kuc2477/resume/master/resume.md">Markdown</a> | <a href="https://raw.github.com/kuc2477/resume/master/resume.pdf">PDF</a> | <a href="http://github.com/kuc2477/resume">Source</a>
+</p>
+</div>
 <div>
-<h1 id="markdown-resumé">Markdown Resumé</h1>
+<h1 id="ha-junsoo-河-俊-秀">Ha Junsoo (河 俊 秀)</h1>
+<h2 id="personal-details">Personal Details</h2>
+<p>Email: kuc2477@gmail.com<br />
+Phone: +82 10-6766-2477<br />
+Address: 서울시 성동구 마조로 15-16, 203<br />
+Contact: <a href="https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name">LinkedIn</a> | <a href="https://github.com/kuc2477">Github</a></p>
 <h2 id="interests">Interests</h2>
 <ul>
-<li>Creating beautiful resumés from simple Markdown documents</li>
-</ul>
-<h2 id="work-experience">Work Experience</h2>
-<ul>
-<li><p><strong>Word Processor</strong> (Redmond, WA)</p>
-<p>Junior Resumé Maker, 2006 - 2007</p>
-<ul>
-<li>Intermingled presentation and content</li>
-<li>Styling was a pain, so either didn't do it or found a half-decent template and didn't mess with it</li>
-</ul></li>
-<li><p><strong>LaTeX + pdflatex</strong></p>
-<p>Senior Resumé Maker, 2008 - 2010</p>
-<ul>
-<li>Edited verbose LaTeX documents in a text editor</li>
-<li>Mixed content and presentation to achieve pixel-perfection</li>
-<li>Installed and configured the unusual TeX setups required by the best-looking LaTeX resumés</li>
-</ul></li>
-<li><p><strong>LinkedIn, StackOverflow Careers, vizualize.me, etc</strong></p>
-<p>Web Resumé Intern, August 2010</p>
-<ul>
-<li>Entered data, adapting to different data models and formatting limitations</li>
-<li>Attempted to customize PDF exports and remove default resumé elements, to no avail</li>
-</ul></li>
-<li><p><strong>Markdown with Pandoc</strong></p>
-<p>Resumé Architect, February 2011 - present</p>
-<ul>
-<li>Write in one format (Markdown), convert to many formats (PDF, HTML, ODT, DOCX, and more)</li>
-<li>Style HTML output with CSS and PDF output with a custom LaTeX header</li>
-<li>Use a simple pre-processor to define per-format operations on the Markdown input or its parts, such as moving contact information to the top right of the page in both HTML and PDF output.</li>
-<li>Use a text-based resumé when needed in a pinch</li>
-<li>Use version control, including free hosting on Github</li>
-</ul></li>
+<li>Free and open source softwares</li>
+<li>CLI tools</li>
+<li>Functional languages</li>
+<li>Statistics and Machine learning</li>
 </ul>
 <h2 id="education">Education</h2>
 <ul>
-<li><p><strong>Github University</strong> (World Wide Web)</p>
-<p>B.S. in Submodules, May 2012</p></li>
-</ul>
-<h2 id="skills">Skills</h2>
+<li><p><strong>Hanyang University</strong> (Seoul)</p>
 <ul>
-<li><p>Very experienced with Python, Markdown, LaTeX</p></li>
-<li><p>Familiar with GNU Make, bash</p></li>
+<li><em>B.S. in Software Engineering</em>, May 2013 ~</li>
+<li><em>B.S. in Matematics</em>, May 2014 ~</li>
+</ul></li>
+<li><p><strong>Coursera</strong> (Internet OCW)</p>
+<ul>
+<li>Machine Learning, Andrew Ng (Stanford)</li>
+</ul></li>
+</ul>
+<h2 id="technologies">Technologies</h2>
+<ul>
+<li><strong>Python</strong>:
+<ul>
+<li>Django, Flask, SQLAlchemy, Celery, Asyncio, Crossbar, Autobahn</li>
+</ul></li>
+<li><strong>Javascript</strong>:
+<ul>
+<li>Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn</li>
+</ul></li>
+<li><strong>Database</strong>:
+<ul>
+<li>MySQL, PostgreSQL, SQLite, Redis</li>
+</ul></li>
+<li><strong>Others</strong>:
+<ul>
+<li>Bash, GNU Make</li>
+</ul></li>
+</ul>
+<h2 id="open-source-projects">Open Source Projects</h2>
+<ul>
+<li><p><strong><a href="https://github.com/kuc2477/news">news</a></strong>:</p>
+<p><em>Asynchronous web subscription engine</em></p>
+<ul>
+<li><em>Technologies</em>: asyncio, aiohttp, redis, celery</li>
+<li><em>Features</em>:
+<ul>
+<li>Built on top of <em>asyncio</em> and <em>aiohttp</em>. So yes - it's asynchronous and fast.</li>
+<li>Supports pluggable backends, including <em>Django ORM</em> and <em>SQLAlchemy</em>.</li>
+<li>Supports optional schedule persistence via redis.</li>
+</ul></li>
+</ul></li>
+<li><p><strong><a href="https://github.com/kuc2477/anchor-frontend-pc">Anchor</a></strong>:</p>
+<p><em>Desktop application for web contents curation service built on top of News</em></p>
+<ul>
+<li><em>Technologies</em>:
+<ul>
+<li>Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn</li>
+<li>Frontend: Electron, React, Redux, Immutable, ES6, Webpack, Autobahn</li>
+</ul></li>
+<li><em>Features</em>:
+<ul>
+<li>Schedulable web subscription with fine grained user options.</li>
+<li>Recommender system based on simple neural network classifier.</li>
+<li>Realtime notifications.</li>
+</ul></li>
+</ul></li>
+<li><p><strong><a href="https://github.com/kuc2477/django-record">django-record</a></strong>:</p>
+<p><em>Automagically takes snapshots of model instances on their both direct and indirect changes</em></p>
+<ul>
+<li><em>Technologies</em>: Django ORM</li>
+<li><em>Features</em>:
+<ul>
+<li>Provides simple mixin which provides auto recoreding functionality to models.</li>
+<li>Supports auto recording for both direct and indirect changes of model instances.</li>
+<li>Properties that return python primitives can be recorded.</li>
+</ul></li>
+</ul></li>
+<li><p><strong><a href="https://github.com/kuc2477/vim-guerilla">vim-guerilla</a></strong>:</p>
+<p><em>Minimal vim configuration for guerilla devs</em></p>
+<ul>
+<li><em>Technologies</em>: Bash, Batch Script, VimL</li>
+<li><em>Features</em>:
+<ul>
+<li>Works on any platform where vanilla vim exists</li>
+<li>Create a backup on deployment and removes it on retreatment</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="experience">Experience</h2>
+<ul>
+<li><p><strong>LG Electronics</strong> (서초 R&amp;D Center)</p>
+<p><em>Software Delveopment Intern</em>, July 2014 ~ August 2014</p>
+<ul>
+<li><em>Technologies</em>: <em>Python</em></li>
+<li><em>Works</em>:
+<ul>
+<li>Developed .xls table parser and JIRA API wrapper for uploading excel files to JIRA issue tracker.</li>
+<li>Automated team's issue reporting system with the JIRA API wrapper.</li>
+<li>Tested LG smart TV ported version of WebOS.</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Nexol System</strong></p>
+<p><em>Software Development Intern</em>, Jan 2015 ~ Mar 2015</p>
+<ul>
+<li><em>Technologies</em>: <em>Android,</em> <em>Struts2</em></li>
+<li><em>Works</em>:
+<ul>
+<li>Developed mobile android CMS application for <em>Samsonite. Korea</em>.</li>
+<li>Developed and maintained Struts2 powered backend's CMS validation system for <em>Samsonite. Korea</em>.</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Geopia</strong></p>
+<p><em>Software Developer (Substitue of mandatory military service)</em>, Apr 2015 ~ Present</p>
+<ul>
+<li><em>Technologies</em>: <em>Android</em>, <em>PHP</em></li>
+<li><em>Works</em>:
+<ul>
+<li>Developed 결신 mobile android application and it's backend from scratch.</li>
+<li>Maintained handful of android applications for mobile dating / chat services.</li>
+</ul></li>
+</ul></li>
 </ul>
 </div>
 </body>

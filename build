@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
 
+timestamp=`date`
+
+git checkout gh-pages
 PANDOCARGS='--latex-engine=xelatex' make
+git add -A
+git commit -m "build - ${date}"
+git push origin gh-pages

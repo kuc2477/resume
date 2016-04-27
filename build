@@ -2,7 +2,6 @@
 
 timestamp=`date`
 
-git checkout gh-pages
 PANDOCARGS='--latex-engine=xelatex' make
 git add -A
 git commit -m "build - ${timestamp}"

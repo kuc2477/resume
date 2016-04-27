@@ -49,7 +49,7 @@ Technologies
     * MySQL, PostgreSQL, SQLite, Redis
 
 * **Others**: 
-    * Bash, GNU Make, Git, CI
+    * Bash, GNU Make, Git, Travis CI, Coveralls
 
 
 Open Source Projects

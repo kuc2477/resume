@@ -1,6 +1,5 @@
-![Photo](https://raw.github.com/kuc2477/resume/gh-pages/photo.jpg) Ha Junsoo (河 俊 秀)
-======================================================================================
-
+![Photo](https://en.gravatar.com/userimage/88915015/2c6d5786d2b480927676688336d80102.jpg?size=150)  Ha Junsoo (河 俊 秀)
+========================================================================================================================
 Read with 
 [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)
 

@@ -1,7 +1,8 @@
-![Photo](https://en.gravatar.com/userimage/88915015/2c6d5786d2b480927676688336d80102.jpg?size=150)  Ha Junsoo (河 俊 秀)
-========================================================================================================================
+Ha Junsoo (河 俊 秀)
+====================
+
 Read with 
-[Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)
+[Markdown](https://raw.github.com/kuc2477/resume/master/resume.md) | [PDF](https://raw.github.com/kuc2477/resume/master/resume.pdf) | [Source](http://github.com/kuc2477/resume)
 
 
 Personal Details
@@ -14,7 +15,6 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Python and Javascript
 - Free and open source software
 - Statistics and machine learning
 - Functional languages
@@ -27,7 +27,7 @@ Education
 * **Hanyang University** (Seoul)
 
     - *B.S. in Software Engineering*, May 2013 ~
-    - *B.S. in Mathematics*, Aug 2014 ~
+    - *B.S. in Mathematics*, May 2014 ~
 
 
 * **Coursera** (Internet OCW)
@@ -48,7 +48,7 @@ Technologies
     * MySQL, PostgreSQL, SQLite, Redis
 
 * **Others**: 
-    * Bash, GNU Make, Git, Travis CI, Coveralls
+    * Bash, GNU Make
 
 
 Open Source Projects
@@ -65,9 +65,9 @@ Open Source Projects
         - Supports optional schedule persistence via redis.
 
 
-*   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)**:
+*   **[Anchor](https://github.com/kuc2477/anchor-frontend-pc)**:
 
-    *Desktop application for web contents curation service built on top of [news](https://github.com/kuc2477/news) (work in progress)*
+    *Desktop application for web contents curation service built on top of News*
 
     - *Technologies*: 
         - Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn
@@ -83,7 +83,7 @@ Open Source Projects
 
     - *Technologies*: Django ORM
     - *Features*:
-        - Provides simple mixin which gives auto recording functionality to models.
+        - Provides simple mixin which provides auto recoreding functionality to models.
         - Supports auto recording for both direct and indirect changes of model instances.
         - Properties that return python primitives can be recorded.
 
@@ -97,14 +97,6 @@ Open Source Projects
         - Works on any platform where vanilla vim exists
         - Create a backup on deployment and removes it on retreatment
 
-* **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**
-
-    *Small module for CSRF protection compatible XHR requests from Backbone ORM*
-
-    - *Technologies*: Javascript
-    - *Features*:
-        - Provides CSRF protected backend compatibility to Backbone models
-        - Supports both CommonJS & AMD specifications
 
 Experience
 -----------

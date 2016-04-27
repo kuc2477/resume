@@ -2,7 +2,7 @@ Ha Junsoo (河 俊 秀)
 ====================
 
 Read with 
-[Markdown](https://raw.github.com/kuc2477/resume/master/index.md) | [PDF](https://raw.github.com/kuc2477/resume/master/index.pdf) | [Source](http://github.com/kuc2477/resume)
+[Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)
 
 
 Personal Details

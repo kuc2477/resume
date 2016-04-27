@@ -100,7 +100,7 @@ Open Source Projects
 
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**
 
-    *Micro module for CSRF protection compatible XHR requests from Backbone ORM*
+    *Small module for CSRF protection compatible XHR requests from Backbone ORM*
 
     - *Technologies*: Javascript
     - *Features*:

@@ -15,11 +15,10 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Free and open source softwares
-- CLI tools
+- Free and open source software
+- Statistics and machine learning
 - Functional languages
-- Statistics and Machine learning
-
+- CLI tools
 
 
 Education
@@ -28,7 +27,7 @@ Education
 * **Hanyang University** (Seoul)
 
     - *B.S. in Software Engineering*, May 2013 ~
-    - *B.S. in Matematics*, May 2014 ~
+    - *B.S. in Mathematics*, May 2014 ~
 
 
 * **Coursera** (Internet OCW)
@@ -40,7 +39,7 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, Asyncio, Crossbar, Autobahn
+    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn
 
 * **Javascript**: 
     * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
@@ -59,7 +58,7 @@ Open Source Projects
 
     *Asynchronous web subscription engine*
 
-    - *Technologies*: asyncio, aiohttp, redis, celery
+    - *Technologies*: asyncio, aiohttp, Redis, Celery
     - *Features*:
         - Built on top of *asyncio* and *aiohttp*. So yes - it's asynchronous and fast.
         - Supports pluggable backends, including *Django ORM* and *SQLAlchemy*.

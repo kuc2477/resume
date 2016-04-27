@@ -1,5 +1,5 @@
-Ha Junsoo (河 俊 秀)
-====================
+[Photo]('https://github.com/kuc2477/resume/photo.jpg') Ha Junsoo (河 俊 秀)
+===========================================================================
 
 Read with 
 [Markdown](https://raw.github.com/kuc2477/resume/master/index.md) | [PDF](https://raw.github.com/kuc2477/resume/master/index.pdf) | [Source](http://github.com/kuc2477/resume)

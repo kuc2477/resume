@@ -9,7 +9,7 @@ Personal Details
 Email:      kuc2477@gmail.com  
 Phone:      +82 10-6766-2477  
 Address:    서울시 성동구 마조로 15-16, 203  
-Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477)  
+Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](https://kuc2477.github.io)
 
 
 Interests
@@ -39,7 +39,7 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn  
+    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn
 * **Javascript**: 
     * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
 * **Database**: 

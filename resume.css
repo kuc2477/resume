@@ -44,10 +44,10 @@ ul li ul {
 }
 
 li {
-    margin-top: .5em;
-    margin-bottom: .5em
+    margin-top: .3em;
+    margin-bottom: .3em
 }
 
 ul li ul li {
-    margin: .5em;
+    margin: .3em;
 }

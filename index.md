@@ -51,11 +51,8 @@ Technologies
 * **Database**: 
     * MySQL, PostgreSQL, SQLite, Redis
 
-* **Servers**:
-    * Nginx
-
 * **Others**: 
-    * Bash, GNU Make, Git, Travis CI, Coveralls
+    * Git, Bash, GNU Make, Travis CI, Coveralls
     * AWS (EC2, RDS, S3, CloudFront)
 
 

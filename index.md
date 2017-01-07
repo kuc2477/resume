@@ -63,16 +63,16 @@ Open Source Projects
 
     *Text generating bidirectional LSTM learned from 삼국지 of 이문열*
 
-    - *Technologies*: Keras
-    - *Features*: 
+    - Technologies: Keras
+    - Features: 
         - Generates 삼국지 style text from a given sentence
 
 *   **[news](https://github.com/kuc2477/news)**:
 
     *Asynchronous web subscription engine*
 
-    - *Technologies*: asyncio, aiohttp, Redis, Celery
-    - *Features*:
+    - Technologies: asyncio, aiohttp, Redis, Celery
+    - Features:
         - Built on top of *asyncio* and *aiohttp*
         - Supports pluggable backends including *Django ORM* and *SQLAlchemy*
         - Supports optional schedule persistence via redis
@@ -82,10 +82,10 @@ Open Source Projects
 
     *Desktop application for web content curation service built on top of [news](https://github.com/kuc2477/news)*
 
-    - *Technologies*: 
+    - Technologies: 
         - Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn
         - Frontend: Electron, React, Redux, Immutable, ES6, Webpack, Autobahn
-    - *Features*:
+    - Features:
         - Schedulable web content subscription
         - Personalized web content curation
         - Realtime notification
@@ -94,8 +94,8 @@ Open Source Projects
 
     *Take snapshots of model instances on their changes*
 
-    - *Technologies*: Django ORM
-    - *Features*:
+    - Technologies: Django ORM
+    - Features:
         - Provide simple mixin which gives auto recording functionality to models
         - Provide automatic recording for both direct and indirect changes of model instances
         - Support property recording for properties that return python primitives
@@ -105,8 +105,8 @@ Open Source Projects
 
     *Minimal vim configuration for guerilla devs*
 
-    - *Technologies*: Bash, Batch Script, VimL
-    - *Features*:
+    - Technologies: Bash, Batch Script, VimL
+    - Features:
         - Can be deployed to any platform where vanilla vim exists
         - Can be easily installed and removed without corrupting existing configuration
 
@@ -114,8 +114,8 @@ Open Source Projects
 
     *Module for CSRF protection compatible XHR requests from Backbone models*
 
-    - *Technologies*: Javascript
-    - *Features*:
+    - Technologies: Javascript
+    - Features:
         - Provide CSRF protected backend compatibility to Backbone models
         - Support both CommonJS & AMD specifications
 
@@ -126,8 +126,8 @@ Experience
 
     *Software Delveopment Intern, <small>July 2014 - August 2014</small>*
 
-    - *Technologies*: *Python*
-    - *Works*:
+    - Technologies: *Python*
+    - Works:
         -   Developed Excel table parser and JIRA API wrapper
         -   Automated issue reporting system with the JIRA API wrapper
         -   Tested LG smart TV ported version of WebOS.
@@ -136,16 +136,16 @@ Experience
 
     *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
-    - *Technologies*: *Android,* *Struts2*
-    - *Works*:
+    - Technologies: *Android,* *Struts2*
+    - Works:
         -   Developed mobile android CMS application for *Samsonite. Korea*.
         -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
 
-*   **Geopia Co. Ltd** <small>Guro, Seoul, Korea, 2015 - Present</small>*
+*   **Geopia Co. Ltd** 
 
-    *Software Developer, <small>(Substitue of Mandatory Military Service)</small>*
+    *Software Developer(Substitue of Mandatory Military Service), <small>Guro, Seoul, Korea, 2015 - Present</small>*
 
-    - *Technologies*: *Android*, *PHP*
-    - *Works*:
+    - Technologies: *Android*, *PHP*
+    - Works:
         -   Developed and maintained Android applications for mobile dating services
         -   Developed and maintained PHP backends for the mobile dating services

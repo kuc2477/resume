@@ -39,10 +39,17 @@ Education
 Technologies
 ------------
 
-* **Python**: Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, Keras
-* **Javascript**: Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
-* **Database**: MySQL, PostgreSQL, SQLite, Redis
-* **Others**: Bash, GNU Make, Git, Travis CI, Coveralls
+* **Python**: 
+    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, Keras
+
+* **Javascript**: 
+    * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
+
+* **Database**: 
+    * MySQL, PostgreSQL, SQLite, Redis
+
+* **Others**: 
+    * Bash, GNU Make, Git, Travis CI, Coveralls
 
 
 Open Source Projects
@@ -113,7 +120,7 @@ Experience
 
 *   **LG Electronics Co. Ltd.** <small>Seocho, Seoul, Korea</small>
 
-    *Software Delveopment Intern*, July 2014 - August 2014
+    *Software Delveopment Intern*, <small>July 2014 - August 2014</small>
 
     - *Technologies*: *Python*
     - *Works*:
@@ -123,7 +130,7 @@ Experience
 
 *   **Nexol System Co. Ltd.** <small>Guro, Seoul, Korea</small>
 
-    *Software Development Intern*, Jan 2015 - Mar 2015
+    *Software Development Intern*, <small>Jan 2015 - Mar 2015</small>
 
     - *Technologies*: *Android,* *Struts2*
     - *Works*:
@@ -132,7 +139,7 @@ Experience
 
 *   **Geopia Co. Ltd** <small>Guro, Seoul, Korea</small>
 
-    *Software Developer (Substitue of Mandatory Military Service)*, Apr 2015 - Present
+    *Software Developer (Substitue of Mandatory Military Service)*, <small>Apr 2015 - Present</small>
 
     - *Technologies*: *Android*, *PHP*
     - *Works*:

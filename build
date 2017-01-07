@@ -3,10 +3,21 @@
 timestamp=`date`
 branch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
 
+# commit changes from source
+git add -A
+git commit -m "update - {timestamp}"
+
+# merge changes from source
 git checkout gh-pages
 git merge ${branch}
+
+# build and deploy
 PANDOCARGS='--latex-engine=xelatex' make
 git add -A
 git commit -m "build - ${timestamp}"
 git push origin gh-pages
+
+# merge build artifacts into source and push entire commits
 git checkout ${branch}
+git merge gh-pages
+git push origin ${branch}

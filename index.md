@@ -78,7 +78,7 @@ Open Source Projects
 
 *   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)** (<small>work in progress</small>):
 
-    *Desktop application for web content curation service built on top of [news](https://github.com/kuc2477/news)*
+    *Web content curation service built on top of [news](https://github.com/kuc2477/news)*
 
     - Technologies: 
         - Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn

@@ -142,7 +142,7 @@ Experience
 
 *   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
 
-    *Software Developer, <small>2015 - Present (Substitue of Mandatory Military Service)</small>*
+    *Software Developer, <small>Apr 2015 - Present (Substitue of Mandatory Military Service)</small>*
 
     - Technologies: *Android*, *PHP*
     - Works:

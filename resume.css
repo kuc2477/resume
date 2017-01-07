@@ -5,6 +5,18 @@ body {
     line-height: 1.4;
 }
 
+a:-webkit-any-link {
+  text-decoration: none !important;
+}
+
+a {
+    color: #2a99b6;
+}
+
+a:hover {
+    color: #33bbdf;
+}
+
 #container {
     margin: auto;
     width: 7.5in;

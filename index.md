@@ -40,7 +40,8 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn 
+    * Django, Flask, SQLAlchemy
+    * Celery, Crossbar, Autobahn, asyncio
     * NumPy, SciPy, Keras
 
 * **Javascript**: 
@@ -51,7 +52,8 @@ Technologies
     * MySQL, PostgreSQL, SQLite, Redis
 
 * **Others**: 
-    * Bash, Git, GNU Make, Travis CI, Coveralls, AWS
+    * Bash, Git, GNU Make
+    * Travis CI, Coveralls, AWS, Fabric
 
 
 Open Source Projects
@@ -125,7 +127,7 @@ Experience
 
     *Software Delveopment Intern, <small>July 2014 - August 2014</small>*
 
-    - Technologies: *Python*
+    - Technologies: Python
     - Works:
         -   Developed Excel table parser and JIRA API wrapper
         -   Automated issue reporting system with the JIRA API wrapper
@@ -135,7 +137,7 @@ Experience
 
     *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
-    - Technologies: *Android,* *Struts2*
+    - Technologies: Android, Struts2
     - Works:
         -   Developed mobile android CMS application for *Samsonite. Korea*.
         -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.

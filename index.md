@@ -40,8 +40,7 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery
-    * asyncio, Crossbar, Autobahn 
+    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn 
     * NumPy, SciPy, Keras
 
 * **Javascript**: 
@@ -52,8 +51,7 @@ Technologies
     * MySQL, PostgreSQL, SQLite, Redis
 
 * **Others**: 
-    * Git, Bash, GNU Make, Travis CI, Coveralls
-    * AWS (EC2, RDS, S3, CloudFront)
+    * Bash, Git, GNU Make, Travis CI, Coveralls, AWS
 
 
 Open Source Projects
@@ -144,7 +142,7 @@ Experience
 
 *   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
 
-    *Software Developer, <small>Substitue of Mandatory Military Service</small>, <small>2015 - Present</small>*
+    *Software Developer, <small>2015 - Present, (Substitue of Mandatory Military Service)</small>*
 
     - Technologies: *Android*, *PHP*
     - Works:

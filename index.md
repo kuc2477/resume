@@ -121,7 +121,7 @@ Experience
         -   Automated issue reporting system with the JIRA API wrapper
         -   Tested LG smart TV ported version of WebOS.
 
-*   **Nexol System Co., Ltd.**
+*   **Nexol System Co., Ltd.** <small>(Guro, Seoul, Korea)</small>
 
     *Software Development Intern*, Jan 2015 - Mar 2015
 

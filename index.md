@@ -6,17 +6,17 @@ Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | 
 
 Personal Details
 ---------------
-Email:      kuc2477@gmail.com  
+Email:      kuc2477@gmail.com   
 Phone:      +82 10-6766-2477  
 Address:    서울시 성동구 마조로 15-16, 203  
-Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](https://kuc2477.github.io)
+Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](http://hajunsoo.org)
 
 
 Interests
 ---------
-- Python and Javascript
-- Free and open source software
-- Statistics and machine learning
+- Deep Learning and Statistics
+- Free and Open Source Softwares
+- Python and JavaScript
 - Functional languages
 - CLI tools
 
@@ -26,20 +26,21 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering*, May 2013 ~
-    - *B.S. in Mathematics*, Aug 2014 ~
+    - *B.S. in Software Engineering*, May 2013 - Present
+    - *B.S. in Mathematics*, Aug 2014 - Present
 
 
-* **Coursera** (Internet OCW)
+* **Internet OCW**
 
-    - Machine Learning, Andrew Ng (Stanford)
+    - Machine Learning, Andrew Ng (Coursera, Stanford)
+    - Convolutional Neural Network for Visual Recognition, Fei-Fei Li (Stanford)
 
 
 Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn
+    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, NumPy, Keras
 * **Javascript**: 
     * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
 * **Database**: 
@@ -51,38 +52,46 @@ Technologies
 Open Source Projects
 ---------------------
 
+*   **[neural-three-kingdoms](https://github.com/kuc2477/neural-three-kingdoms)**:
+
+    *Text generating bidirectional LSTM learned from 삼국지 of 이문열*
+
+    - *Technologies*: Keras
+    - *Features*: 
+        - Generates 삼국지 style text from a given sentence
+
 *   **[news](https://github.com/kuc2477/news)**:
 
     *Asynchronous web subscription engine*
 
     - *Technologies*: asyncio, aiohttp, Redis, Celery
     - *Features*:
-        - Built on top of *asyncio* and *aiohttp*. So yes - it's asynchronous and fast.
-        - Supports pluggable backends, including *Django ORM* and *SQLAlchemy*.
-        - Supports optional schedule persistence via redis.
+        - Built on top of *asyncio* and *aiohttp*
+        - Supports pluggable backends including *Django ORM* and *SQLAlchemy*
+        - Supports optional schedule persistence via redis
 
 
-*   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)**:
+*   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)** (<small>work in progress</small>):
 
-    *Desktop application for web contents curation service built on top of [news](https://github.com/kuc2477/news) (work in progress)*
+    *Desktop application for web content curation service built on top of [news](https://github.com/kuc2477/news)*
 
     - *Technologies*: 
         - Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn
         - Frontend: Electron, React, Redux, Immutable, ES6, Webpack, Autobahn
     - *Features*:
-        - Schedulable web subscription with fine grained user options.
-        - Recommender system based on simple neural network classifier.
-        - Realtime notifications.
+        - Schedulable web content subscription
+        - Personalized web content curation
+        - Realtime notification
 
 *   **[django-record](https://github.com/kuc2477/django-record)**:
 
-    *Automagically takes snapshots of model instances on their both direct and indirect changes*
+    *Take snapshots of model instances on their both direct and indirect changes*
 
     - *Technologies*: Django ORM
     - *Features*:
-        - Provides simple mixin which gives auto recording functionality to models.
-        - Supports auto recording for both direct and indirect changes of model instances.
-        - Properties that return python primitives can be recorded.
+        - Provide simple mixin which gives auto recording functionality to models
+        - Provide automatic recording for both direct and indirect changes of model instances
+        - Support property recording for properties that return python primitives
 
 
 * **[vim-guerilla](https://github.com/kuc2477/vim-guerilla)**:
@@ -91,34 +100,34 @@ Open Source Projects
 
     - *Technologies*: Bash, Batch Script, VimL
     - *Features*:
-        - Works on any platform where vanilla vim exists
-        - Create a backup on deployment and removes it on retreatment
+        - Can be deployed to any platform where vanilla vim exists
+        - Can be easily installed and removed without corrupting existing configuration
 
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**
 
-    *Small module for CSRF protection compatible XHR requests from Backbone ORM*
+    *Module for CSRF protection compatible XHR requests from Backbone models*
 
     - *Technologies*: Javascript
     - *Features*:
-        - Provides CSRF protected backend compatibility to Backbone models
-        - Supports both CommonJS & AMD specifications
+        - Provide CSRF protected backend compatibility to Backbone models
+        - Support both CommonJS & AMD specifications
 
 Experience
 -----------
 
 *   **LG Electronics** (서초 R&D Center)
 
-    *Software Delveopment Intern*, July 2014 ~ August 2014
+    *Software Delveopment Intern*, July 2014 - August 2014
 
     - *Technologies*: *Python*
     - *Works*:
-        -   Developed .xls table parser and JIRA API wrapper for uploading excel files to JIRA issue tracker.
-        -   Automated team's issue reporting system with the JIRA API wrapper.
+        -   Developed Excel table parser and JIRA API wrapper
+        -   Automated issue reporting system with the JIRA API wrapper
         -   Tested LG smart TV ported version of WebOS.
 
 *   **Nexol System**
 
-    *Software Development Intern*, Jan 2015 ~ Mar 2015
+    *Software Development Intern*, Jan 2015 - Mar 2015
 
     - *Technologies*: *Android,* *Struts2*
     - *Works*:
@@ -127,9 +136,9 @@ Experience
 
 *   **Geopia**
 
-    *Software Developer (Substitue of mandatory military service)*, Apr 2015 ~ Present
+    *Software Developer (Substitue of Mandatory Military Service)*, Apr 2015 - Present
 
     - *Technologies*: *Android*, *PHP*
     - *Works*:
-        -   Developed  결신 mobile android application and it's backend from scratch.
-        -   Maintained handful of android applications for mobile dating / chat services.
+        -   Developed and maintained Android applications for mobile dating services
+        -   Developed and maintained PHP backends for the mobile dating services

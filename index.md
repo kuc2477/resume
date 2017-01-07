@@ -39,14 +39,10 @@ Education
 Technologies
 ------------
 
-* **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, NumPy, Keras
-* **Javascript**: 
-    * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
-* **Database**: 
-    * MySQL, PostgreSQL, SQLite, Redis
-* **Others**: 
-    * Bash, GNU Make, Git, Travis CI, Coveralls
+* **Python**: Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, Keras
+* **Javascript**: Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
+* **Database**: MySQL, PostgreSQL, SQLite, Redis
+* **Others**: Bash, GNU Make, Git, Travis CI, Coveralls
 
 
 Open Source Projects

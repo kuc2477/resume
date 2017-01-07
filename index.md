@@ -119,6 +119,7 @@ Open Source Projects
         - Provide CSRF protected backend compatibility to Backbone models
         - Support both CommonJS & AMD specifications
 
+
 Experience
 -----------
 
@@ -141,9 +142,9 @@ Experience
         -   Developed mobile android CMS application for *Samsonite. Korea*.
         -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
 
-*   **Geopia Co. Ltd** 
+*   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
 
-    *Software Developer(Substitue of Mandatory Military Service), <small>Guro, Seoul, Korea, 2015 - Present</small>*
+    *Software Developer (Substitue of Mandatory Military Service), <small>2015 - Present</small>*
 
     - Technologies: *Android*, *PHP*
     - Works:

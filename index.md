@@ -40,16 +40,23 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy, Celery, asyncio, Crossbar, Autobahn, Keras
+    * Django, Flask, SQLAlchemy, Celery
+    * asyncio, Crossbar, Autobahn 
+    * NumPy, SciPy, Keras
 
 * **Javascript**: 
-    * Backbone, React, Redux, Immutable, Electron, ES6, Webpack, Autobahn
+    * Backbone, React, Redux, Electron, Autobahn
+    * ES6, Webpack, Immutable
 
 * **Database**: 
     * MySQL, PostgreSQL, SQLite, Redis
 
+* **Servers**:
+    * Nginx
+
 * **Others**: 
     * Bash, GNU Make, Git, Travis CI, Coveralls
+    * AWS (EC2, RDS, S3, CloudFront)
 
 
 Open Source Projects

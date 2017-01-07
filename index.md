@@ -127,7 +127,7 @@ Experience
 
 *   **LG Electronics Co. Ltd.** <small>Seocho, Seoul, Korea</small>
 
-    *Software Delveopment Intern*, <small>July 2014 - August 2014</small>
+    *Software Delveopment Intern, <small>July 2014 - August 2014</small>*
 
     - *Technologies*: *Python*
     - *Works*:
@@ -137,7 +137,7 @@ Experience
 
 *   **Nexol System Co. Ltd.** <small>Guro, Seoul, Korea</small>
 
-    *Software Development Intern*, <small>Jan 2015 - Mar 2015</small>
+    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
     - *Technologies*: *Android,* *Struts2*
     - *Works*:
@@ -146,7 +146,7 @@ Experience
 
 *   **Geopia Co. Ltd** <small>Guro, Seoul, Korea</small>
 
-    *Software Developer (Substitue of Mandatory Military Service)*, <small>Apr 2015 - Present</small>
+    *Software Developer (Substitue of Mandatory Military Service), <small>Apr 2015 - Present</small>*
 
     - *Technologies*: *Android*, *PHP*
     - *Works*:

@@ -26,14 +26,14 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering*, <small>May 2013 - Present</small>
-    - *B.S. in Mathematics*, <small>Aug 2014 - Present</small>
+    - *B.S. in Software Engineering, <small>May 2013 - Present</small>*
+    - *B.S. in Mathematics, <small>Aug 2014 - Present</small>*
 
 
 * **Internet OCW**
 
-    - *Machine Learning*, <small>Andrew Ng (Coursera, Stanford)</small>
-    - *Convolutional Neural Network for Visual Recognition*, <small>Fei-Fei Li (Stanford)</small>
+    - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
+    - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
 
 
 Technologies

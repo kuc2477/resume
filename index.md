@@ -26,14 +26,14 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering*, May 2013 - Present
-    - *B.S. in Mathematics*, Aug 2014 - Present
+    - *B.S. in Software Engineering*, <small>May 2013 - Present</small>
+    - *B.S. in Mathematics*, <small>Aug 2014 - Present</small>
 
 
 * **Internet OCW**
 
-    - Machine Learning, Andrew Ng (Coursera, Stanford)
-    - Convolutional Neural Network for Visual Recognition, Fei-Fei Li (Stanford)
+    - *Machine Learning*, <small>Andrew Ng (Coursera, Stanford)</small>
+    - *Convolutional Neural Network for Visual Recognition*, <small>Fei-Fei Li (Stanford)</small>
 
 
 Technologies
@@ -142,7 +142,7 @@ Experience
 
 *   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
 
-    *Software Developer, <small>2015 - Present, (Substitue of Mandatory Military Service)</small>*
+    *Software Developer, <small>2015 - Present (Substitue of Mandatory Military Service)</small>*
 
     - Technologies: *Android*, *PHP*
     - Works:

@@ -26,14 +26,14 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering <small>May 2013 - Present</small>*
-    - *B.S. in Mathematics <small>Aug 2014 - Present</small>*
+    - *B.S. in Software Engineering, <small>May 2013 - Present</small>*
+    - *B.S. in Mathematics, <small>Aug 2014 - Present</small>*
 
 
 * **Internet OCW**
 
-    - *Machine Learning <small>Andrew Ng (Coursera, Stanford)</small>*
-    - *Convolutional Neural Network for Visual Recognition <small>Fei-Fei Li (Stanford)</small>*
+    - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
+    - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
 
 
 Technologies
@@ -123,7 +123,7 @@ Experience
 
 *   **LG Electronics Co. Ltd.** <small>Seocho, Seoul, Korea</small>
 
-    *Software Delveopment Intern <small>July 2014 - August 2014</small>*
+    *Software Delveopment Intern, <small>July 2014 - August 2014</small>*
 
     - Technologies: *Python*
     - Works:
@@ -133,7 +133,7 @@ Experience
 
 *   **Nexol System Co. Ltd.** <small>Guro, Seoul, Korea</small>
 
-    *Software Development Intern <small>Jan 2015 - Mar 2015</small>*
+    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
     - Technologies: *Android,* *Struts2*
     - Works:
@@ -142,7 +142,7 @@ Experience
 
 *   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
 
-    *Software Developer <small>2015 - Present (Substitue of Mandatory Military Service)</small>*
+    *Software Developer, <small>2015 - Present (Substitue of Mandatory Military Service)</small>*
 
     - Technologies: *Android*, *PHP*
     - Works:

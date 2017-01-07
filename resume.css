@@ -41,9 +41,9 @@ h2 {
     margin-top: 0;
 }
 
-ul {
-    list-style-type: none;
-}
+/*ul {*/
+    /*list-style-type: none;*/
+/*}*/
 
 ul li ul {
     list-style-type: disc;
@@ -51,7 +51,7 @@ ul li ul {
 }
 
 li {
-    margin-top: 0em;
+    margin-top: 3em;
 }
 
 ul li ul li {

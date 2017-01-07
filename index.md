@@ -111,7 +111,7 @@ Open Source Projects
 Experience
 -----------
 
-*   **LG Electronics Co., Ltd.** (서초 R&D Center)
+*   **LG Electronics Co. Ltd.** <small>Seocho, Seoul, Korea</small>
 
     *Software Delveopment Intern*, July 2014 - August 2014
 
@@ -121,7 +121,7 @@ Experience
         -   Automated issue reporting system with the JIRA API wrapper
         -   Tested LG smart TV ported version of WebOS.
 
-*   **Nexol System Co., Ltd.** <small>(Guro, Seoul, Korea)</small>
+*   **Nexol System Co. Ltd.** <small>Guro, Seoul, Korea</small>
 
     *Software Development Intern*, Jan 2015 - Mar 2015
 
@@ -130,7 +130,7 @@ Experience
         -   Developed mobile android CMS application for *Samsonite. Korea*.
         -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
 
-*   **Geopia Co., Ltd**
+*   **Geopia Co. Ltd** <small>Guro, Seoul, Korea</small>
 
     *Software Developer (Substitue of Mandatory Military Service)*, Apr 2015 - Present
 

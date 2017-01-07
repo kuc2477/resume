@@ -95,7 +95,7 @@ Open Source Projects
 
 *   **[django-record](https://github.com/kuc2477/django-record)**:
 
-    *Take snapshots of model instances on their both direct and indirect changes*
+    *Take snapshots of model instances on their changes*
 
     - *Technologies*: Django ORM
     - *Features*:
@@ -146,7 +146,7 @@ Experience
 
 *   **Geopia Co. Ltd** <small>Guro, Seoul, Korea</small>
 
-    *Software Developer (Substitue of Mandatory Military Service), <small>Apr 2015 - Present</small>*
+    *Software Developer, <small>Substitue of Mandatory Military Service</small>, <small>Apr 2015 - Present</small>*
 
     - *Technologies*: *Android*, *PHP*
     - *Works*:

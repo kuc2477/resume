@@ -17,8 +17,8 @@ Interests
 - Deep Learning and Statistics
 - Free and Open Source Softwares
 - Python and JavaScript
-- Functional languages
-- CLI tools
+- Functional Languages
+- CLI Tools
 
 
 Education
@@ -44,7 +44,7 @@ Technologies
     * Celery, Crossbar, Autobahn, asyncio
     * NumPy, SciPy, Keras
 
-* **Javascript**: 
+* **JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
     * ES6, Webpack, Immutable
 
@@ -123,9 +123,9 @@ Open Source Projects
 Experience
 -----------
 
-*   **LG Electronics Co. Ltd.** <small>Seocho, Seoul, Korea</small>
+*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
 
-    *Software Delveopment Intern, <small>July 2014 - August 2014</small>*
+    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
 
     - Technologies: Python
     - Works:
@@ -133,7 +133,7 @@ Experience
         -   Automated issue reporting system with the JIRA API wrapper
         -   Tested LG smart TV ported version of WebOS.
 
-*   **Nexol System Co. Ltd.** <small>Guro, Seoul, Korea</small>
+*   **Nexol System Co., Ltd.** <small>Guro, Seoul, Korea</small>
 
     *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
@@ -142,7 +142,7 @@ Experience
         -   Developed mobile android CMS application for *Samsonite. Korea*.
         -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
 
-*   **Geopia Co. Ltd.** <small>Guro, Seoul, Korea</small> 
+*   **Geopia Co., Ltd.** <small>Guro, Seoul, Korea</small> 
 
     *Software Developer, <small>Apr 2015 - Present (Substitue of Mandatory Military Service)</small>*
 

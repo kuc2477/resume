@@ -13,7 +13,7 @@ git merge ${branch}
 
 # build and deploy
 PANDOCARGS='--latex-engine=xelatex' make html
-xvfb-run wkhtmltopdf ./index.html ./index.pdf
+xvfb-run wkhtmltopdf --enable-external-links ./index.html ./index.pdf
 git add -A
 git commit -m "build - ${timestamp}"
 git push origin gh-pages

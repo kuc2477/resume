@@ -12,7 +12,8 @@ git checkout gh-pages
 git merge ${branch}
 
 # build and deploy
-PANDOCARGS='--latex-engine=xelatex' make
+PANDOCARGS='--latex-engine=xelatex' make html
+xvfb-run wkhtmltopdf ./index.html ./index.pdf
 git add -A
 git commit -m "build - ${timestamp}"
 git push origin gh-pages

@@ -64,7 +64,7 @@ Open Source Projects
 
     - Technologies: scikit-learn
     - Features:
-        - Simple decision-tree-based prediction on whether if your boss will come to work today. 
+        - Decision-tree-based prediction on whether if your boss will come to work today. 
 
 *   **[neural-three-kingdoms](https://github.com/kuc2477/neural-three-kingdoms)**:
 

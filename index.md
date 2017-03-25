@@ -96,6 +96,13 @@ Experience
 
 Open Source Projects
 ---------------------
+* **[oracle](https://github.com/kuc2477/oracle)**:
+
+    *Oracle drops you a prophecy whether if your boss will come to work today*
+
+    - Technologies: scikit-learn
+    - Features:
+        - Decision-tree-based prediction on whether if your boss will come to work today. 
 
 *   **[neural-three-kingdoms](https://github.com/kuc2477/neural-three-kingdoms)**:
 

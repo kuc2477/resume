@@ -156,7 +156,8 @@ Experience
 
     - Technologies: *Android, PHP*
     - Works: 
-        - Developed Android applications and PHP backends for 5 mobile dating services.
+        - Developed and maintained Android applications for 5 mobile dating services.
+        - Developed and maintained PHP backends for 5 mobile dating services.
 
 *   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
 

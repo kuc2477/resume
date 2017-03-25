@@ -36,26 +36,6 @@ Education
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
 
 
-Technologies
-------------
-
-* **Python**: 
-    * Django, Flask, SQLAlchemy
-    * Celery, Crossbar, Autobahn, asyncio
-    * NumPy, SciPy, Keras
-
-* **JavaScript**: 
-    * Backbone, React, Redux, Electron, Autobahn
-    * ES6, Webpack, Immutable
-
-* **Database**: 
-    * MySQL, PostgreSQL, SQLite, Redis
-
-* **Others**: 
-    * Bash, Git, GNU Make
-    * Travis CI, Coveralls, AWS, Fabric
-
-
 Experience
 -----------
 
@@ -92,6 +72,26 @@ Experience
     *Software Engineer, <small>Mar 2017 - Present</small>*
 
     - Technologies: *Django*, *Flask*, *Falcon*, *SQLAlchemy*, *Nginx*, *AWS*, *Elasticsearch*
+
+
+Technologies
+------------
+
+* **Python**: 
+    * Django, Flask, SQLAlchemy
+    * Celery, Crossbar, Autobahn, asyncio
+    * NumPy, SciPy, Keras
+
+* **JavaScript**: 
+    * Backbone, React, Redux, Electron, Autobahn
+    * ES6, Webpack, Immutable
+
+* **Database**: 
+    * MySQL, PostgreSQL, SQLite, Redis
+
+* **Others**: 
+    * Bash, Git, GNU Make
+    * Travis CI, Coveralls, AWS, Fabric
 
 
 Open Source Projects

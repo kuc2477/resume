@@ -10,6 +10,7 @@ wkhtmltopdf ./index.html ./index.pdf
 # commit changes to source
 git add -A
 git commit -m "update - {timestamp}"
+git push origin ${branch}
 
 # merge changes from source
 git checkout gh-pages

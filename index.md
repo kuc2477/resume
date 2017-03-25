@@ -14,7 +14,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Deep Learning and Statistics
+- Computer Vision (Visual QA, Scene Understanding)
+- Unsupervised Learning (GAN, VAE, Autoencoder, etc.)
 - Free and Open Source Softwares
 - Python and JavaScript
 - Functional Languages
@@ -36,51 +37,13 @@ Education
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
 
 
-Experience
------------
-
-*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
-
-    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
-
-    - Technologies: Python
-    - Works:
-        -   Developed Excel table parser and JIRA API wrapper
-        -   Automated issue reporting system with the JIRA API wrapper
-        -   Tested LG smart TV ported version of WebOS.
-
-*   **Nexol System Co., Ltd.** <small>Geumcheon, Seoul, Korea</small>
-
-    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
-
-    - Technologies: Android, Struts2
-    - Works:
-        -   Developed mobile android CMS application for *Samsonite. Korea*.
-        -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
-
-*   **Geopia Co., Ltd.** <small>Geumcheon, Seoul, Korea</small> 
-
-    *Software Developer, <small>Apr 2015 - Feb 2016 (Substitue of Mandatory Military Service)</small>*
-
-    - Technologies: *Android*, *PHP*
-    - Works:
-        -   Developed and maintained Android applications for mobile dating services
-        -   Developed and maintained PHP backends for the mobile dating services
-
-*   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
-
-    *Software Engineer, <small>Mar 2017 - Present</small>*
-
-    - Technologies: *Django*, *Flask*, *Falcon*, *SQLAlchemy*, *Nginx*, *AWS*, *Elasticsearch*
-
-
 Technologies
 ------------
 
 * **Python**: 
     * Django, Flask, SQLAlchemy
     * Celery, Crossbar, Autobahn, asyncio
-    * NumPy, SciPy, Keras
+    * NumPy, SciPy, Keras, Tensorflow
 
 * **JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
@@ -118,9 +81,9 @@ Open Source Projects
 
     - Technologies: asyncio, aiohttp, Redis, Celery
     - Features:
-        - Built on top of *asyncio* and *aiohttp*
-        - Supports pluggable backends including *Django ORM* and *SQLAlchemy*
-        - Supports optional schedule persistence via redis
+        - Built on top of *asyncio* and *aiohttp*.
+        - Supports pluggable backends including *Django ORM* and *SQLAlchemy*.
+        - Supports optional schedule persistence via redis.
 
 
 *   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)** (<small>work in progress</small>):
@@ -141,9 +104,9 @@ Open Source Projects
 
     - Technologies: Django ORM
     - Features:
-        - Provide simple mixin which gives auto recording functionality to models
-        - Provide automatic recording for both direct and indirect changes of model instances
-        - Support property recording for properties that return python primitives
+        - Provides simple mixin which gives auto recording functionality to models.
+        - Provides automatic recording for both direct and indirect changes of model instances.
+        - Supports property recording for properties that return python primitives.
 
 
 * **[vim-guerilla](https://github.com/kuc2477/vim-guerilla)**:
@@ -152,8 +115,8 @@ Open Source Projects
 
     - Technologies: Bash, Batch Script, VimL
     - Features:
-        - Can be deployed to any platform where vanilla vim exists
-        - Can be easily installed and removed without corrupting existing configuration
+        - Can be deployed to any platform where vanilla vim exists.
+        - Can be easily installed and removed without corrupting existing configuration.
 
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**
 
@@ -161,5 +124,44 @@ Open Source Projects
 
     - Technologies: Javascript
     - Features:
-        - Provide CSRF protected backend compatibility to Backbone models
-        - Support both CommonJS & AMD specifications
+        - Provides CSRF protected backend compatibility to Backbone models.
+        - Supports both CommonJS & AMD specifications.
+
+
+Experience
+-----------
+
+*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
+
+    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
+
+    - Technologies: *Python*
+    - Works:
+        - Developed Excel table parser and JIRA API wrapper.
+        - Automated issue reporting system with the JIRA API wrapper.
+        - Tested LG smart TV ported version of WebOS.
+
+*   **Nexol System Co., Ltd.** <small>Geumcheon, Seoul, Korea</small>
+
+    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
+
+    - Technologies: *Android, Struts2*
+    - Works:
+        - Developed mobile android CMS application for *Samsonite. Korea*.
+        - Maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
+
+*   **Geopia Co., Ltd.** <small>Geumcheon, Seoul, Korea</small> 
+
+    *Software Developer, <small>Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>*
+
+    - Technologies: *Android, PHP*
+    - Works: 
+        - Developed Android applications and PHP backends for 5 mobile dating services.
+
+*   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
+
+    *Software Engineer, <small>Mar 2017 - Present</small>*
+
+    - Technologies: *Django, Flask, Falcon, SQLAlchemy, Celery, Nginx, AWS, Elasticsearch*
+
+

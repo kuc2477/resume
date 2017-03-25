@@ -16,8 +16,6 @@ git checkout gh-pages
 git merge ${branch}
 
 # deploy to gh-pages
-git add -A
-git commit -m "build - ${timestamp}"
 git push origin gh-pages
 
 # checkout to source branch

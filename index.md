@@ -56,6 +56,44 @@ Technologies
     * Travis CI, Coveralls, AWS, Fabric
 
 
+Experience
+-----------
+
+*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
+
+    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
+
+    - Technologies: Python
+    - Works:
+        -   Developed Excel table parser and JIRA API wrapper
+        -   Automated issue reporting system with the JIRA API wrapper
+        -   Tested LG smart TV ported version of WebOS.
+
+*   **Nexol System Co., Ltd.** <small>Geumcheon, Seoul, Korea</small>
+
+    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
+
+    - Technologies: Android, Struts2
+    - Works:
+        -   Developed mobile android CMS application for *Samsonite. Korea*.
+        -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
+
+*   **Geopia Co., Ltd.** <small>Geumcheon, Seoul, Korea</small> 
+
+    *Software Developer, <small>Apr 2015 - Feb 2016 (Substitue of Mandatory Military Service)</small>*
+
+    - Technologies: *Android*, *PHP*
+    - Works:
+        -   Developed and maintained Android applications for mobile dating services
+        -   Developed and maintained PHP backends for the mobile dating services
+
+*   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
+
+    *Software Engineer, <small>Mar 2017 - Present</small>*
+
+    - Technologies: *Django*, *Flask*, *Falcon*, *SQLAlchemy*, *Nginx*, *AWS*, *Elasticsearch*
+
+
 Open Source Projects
 ---------------------
 
@@ -118,35 +156,3 @@ Open Source Projects
     - Features:
         - Provide CSRF protected backend compatibility to Backbone models
         - Support both CommonJS & AMD specifications
-
-
-Experience
------------
-
-*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
-
-    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
-
-    - Technologies: Python
-    - Works:
-        -   Developed Excel table parser and JIRA API wrapper
-        -   Automated issue reporting system with the JIRA API wrapper
-        -   Tested LG smart TV ported version of WebOS.
-
-*   **Nexol System Co., Ltd.** <small>Guro, Seoul, Korea</small>
-
-    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
-
-    - Technologies: Android, Struts2
-    - Works:
-        -   Developed mobile android CMS application for *Samsonite. Korea*.
-        -   Developed and maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
-
-*   **Geopia Co., Ltd.** <small>Guro, Seoul, Korea</small> 
-
-    *Software Developer, <small>Apr 2015 - Present (Substitue of Mandatory Military Service)</small>*
-
-    - Technologies: *Android*, *PHP*
-    - Works:
-        -   Developed and maintained Android applications for mobile dating services
-        -   Developed and maintained PHP backends for the mobile dating services

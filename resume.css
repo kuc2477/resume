@@ -20,7 +20,7 @@ a:hover {
 
 #container {
     margin: auto;
-    width: 8.4in;
+    width: 7.5in;
     padding: .5in 1.5in;
 }
 
@@ -39,10 +39,6 @@ img {
     background: #fff;
 }
 
-h2 {
-  margin-top: 0.5in;
-}
-
 a {
     text-decoration: none;
 }
@@ -57,14 +53,14 @@ ul {
 
 ul li ul {
     list-style-type: disc;
-    margin-bottom: 3em;
+    margin-bottom: 1.5em;
 }
 
 li {
-    margin-top: .5em;
-    margin-bottom: .5em
+    margin-top: .25em;
+    margin-bottom: .25em
 }
 
 ul li ul li {
-    margin: .6em;
+    margin: .3em;
 }

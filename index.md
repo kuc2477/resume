@@ -16,7 +16,7 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 Interests
 ---------
 - Computer Vision (Visual QA, Scene Understanding)
-- Unsupervised Learning (GAN, VAE, Autoencoder, etc.)
+- Unsupervised Learning (GAN, VAE, Autoencoder)
 - Free and Open Source Softwares
 - Python and JavaScript
 - Functional Languages

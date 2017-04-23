@@ -21,7 +21,10 @@ a:hover {
 #container {
     margin: auto;
     width: 7.5in;
-    padding: .5in;
+    padding-top: .5in;
+    padding-left: .5in;
+    padding-right: .2in;
+    padding-bottom: .5in;
 }
 
 #contact {

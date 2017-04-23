@@ -15,11 +15,12 @@ a {
 }
 
 h1 {
-  margin-bottom: 0.6in;
+  margin-bottom: 0.3in;
 }
 
 h2 {
-  margin-bottom: 0.5in;
+  margin-top: 0.3in;
+  margin-bottom: 0.3in;
 }
 
 a:hover {

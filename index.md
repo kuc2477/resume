@@ -1,7 +1,7 @@
 ![Photo](https://en.gravatar.com/userimage/88915015/2c6d5786d2b480927676688336d80102.jpg?size=110)  Ha Junsoo (河 俊 秀)
 ========================================================================================================================
 
-Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)
+Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume) 
 
 
 Personal Details
@@ -9,7 +9,8 @@ Personal Details
 Email:      kuc2477@gmail.com   
 Phone:      +82 10-6766-2477  
 Address:    서울시 성동구 마조로 15-16, 203  
-Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](http://hajunsoo.org)
+Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](http://hajunsoo.org)  
+Last Update: *Apr 24, 2017*
 
 
 Interests
@@ -53,8 +54,8 @@ Technologies
     * MySQL, PostgreSQL, SQLite, Redis
 
 * **Others**: 
-    * Bash, Git, GNU Make
-    * Travis CI, Coveralls, AWS, Fabric
+    * Bash, Git, GNU Make, Docker
+    * Travis CI, Coveralls, Fabric, AWS
 
 
 Open Source Projects
@@ -163,6 +164,6 @@ Experience
 
     *Software Engineer, <small>Mar 2017 - Present</small>*
 
-    - Technologies: *Django, Flask, Falcon, SQLAlchemy, Celery, Nginx, AWS, Elasticsearch*
+    - Technologies: *Django, Flask, Falcon, SQLAlchemy, Celery, Nginx, AWS, Elasticsearch, Docker*
 
 

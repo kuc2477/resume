@@ -42,9 +42,9 @@ Technologies
 ------------
 
 * **Python**: 
-    * Django, Flask, SQLAlchemy
-    * Celery, Crossbar, Autobahn, asyncio
-    * NumPy, SciPy, Keras, Tensorflow
+    * Keras, Tensorflow
+    * Django, Flask, SQLAlchemy, Celery
+    * asyncio, Crossbar, Autobahn
 
 * **JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
@@ -60,6 +60,15 @@ Technologies
 
 Open Source Projects
 ---------------------
+* **[dl-papers](https://github.com/kuc2477/dl-papers)**
+
+    *Categorized list of Deep Learning papers which gave me meaningful insights*
+
+    - Technologies: TensorFlow
+    - Features:
+        - Categorized by their related models and intuitions behind them.
+        - Implemented in either *TensorFlow* or *PyTorch*.
+
 * **[oracle](https://github.com/kuc2477/oracle)**:
 
     *Oracle drops you a prophecy whether if your boss will come to work today*
@@ -108,25 +117,6 @@ Open Source Projects
         - Provides simple mixin which gives auto recording functionality to models.
         - Provides automatic recording for both direct and indirect changes of model instances.
         - Supports property recording for properties that return python primitives.
-
-
-* **[vim-guerilla](https://github.com/kuc2477/vim-guerilla)**:
-
-    *Minimal vim configuration for guerilla devs*
-
-    - Technologies: Bash, Batch Script, VimL
-    - Features:
-        - Can be deployed to any platform where vanilla vim exists.
-        - Can be easily installed and removed without corrupting existing configuration.
-
-* **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**
-
-    *Module for CSRF protection compatible XHR requests from Backbone models*
-
-    - Technologies: Javascript
-    - Features:
-        - Provides CSRF protected backend compatibility to Backbone models.
-        - Supports both CommonJS & AMD specifications.
 
 
 Experience

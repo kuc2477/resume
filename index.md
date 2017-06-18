@@ -96,19 +96,6 @@ Open Source Projects
         - Supports pluggable backends including *Django ORM* and *SQLAlchemy*.
         - Supports optional schedule persistence via redis.
 
-
-*   **[anchor](https://github.com/kuc2477/anchor-frontend-pc)** (<small>work in progress</small>):
-
-    *Web content curation service built on top of [news](https://github.com/kuc2477/news)*
-
-    - Technologies: 
-        - Backend: Flask, SQLAlchemy, Celery, Redis, Crossbar, Autobahn
-        - Frontend: Electron, React, Redux, Immutable, ES6, Webpack, Autobahn
-    - Features:
-        - Schedulable web content subscription
-        - Personalized web content curation
-        - Realtime notification
-
 *   **[django-record](https://github.com/kuc2477/django-record)**:
 
     *Take snapshots of model instances on their changes*

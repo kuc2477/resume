@@ -36,7 +36,7 @@ Education
 
     - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
-    - *Deep Natural Language Processing, <small>Phil Blunsom (Oxford)</small>*
+    - *Deep Natural Language Processing, <small>Phil Blunsom (DeepMind, Oxford)</small>*
 
 
 Skills

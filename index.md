@@ -128,28 +128,21 @@ Experience
     *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
 
     - Technologies: *Python*
-    - Works:
-        - Developed Excel table parser and JIRA API wrapper.
-        - Automated issue reporting system with the JIRA API wrapper.
-        - Tested LG smart TV ported version of WebOS.
+    - Works: Automated issue reporting system and tested LG smart TV ported version of WebOS.
 
 *   **Nexol System Co., Ltd.** <small>Geumcheon, Seoul, Korea</small>
 
     *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
 
     - Technologies: *Android, Struts2*
-    - Works:
-        - Developed mobile android CMS application for *Samsonite. Korea*.
-        - Maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
+    - Works: Developed and maintained CMS service for *Samsonite. Korea*.
 
 *   **Geopia Co., Ltd.** <small>Geumcheon, Seoul, Korea</small> 
 
     *Software Developer, <small>Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>*
 
     - Technologies: *Android, PHP*
-    - Works: 
-        - Developed and maintained Android applications for 5 mobile dating services.
-        - Developed and maintained PHP backends for 5 mobile dating services.
+    - Works: Developed and maintained 5 mobile chatting services.
 
 *   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
 

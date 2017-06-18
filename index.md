@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Apr 24, 2017
+Last Update: June 19, 2017
 
 
 Personal Details
@@ -36,14 +36,14 @@ Education
 
     - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
-    - *Deep Natural Language Processing, <small>Phil Blunsom</small>(DeepMind, Oxford)*
+    - *Deep Natural Language Processing, <small>Phil Blunsom, (DeepMind, Oxford)</small>*
 
 
-Technologies
-------------
+Skills
+------
 
 * **Python**: 
-    * Keras, Tensorflow, PyTorch
+    * Keras, TensorFlow, PyTorch
     * Django, Flask, SQLAlchemy, Celery
     * asyncio, Crossbar, Autobahn
 
@@ -65,7 +65,7 @@ Open Source Projects
 
     *Categorized list of Deep Learning papers which gave me meaningful insights*
 
-    - Technologies: TensorFlow
+    - Technologies: TensorFlow, PyTorch
     - Features:
         - Categorized by their related models and intuitions behind them.
         - Implemented in either *TensorFlow* or *PyTorch*.

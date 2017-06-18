@@ -39,8 +39,8 @@ Education
     - *Deep Natural Language Processing, <small>Phil Blunsom (DeepMind, Oxford)</small>*
 
 
-Skills
-------
+Technologies
+------------
 
 * **Python**: 
     * Keras, TensorFlow, PyTorch

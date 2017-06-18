@@ -16,7 +16,7 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 Interests
 ---------
 - Computer Vision (Visual QA, Scene Understanding)
-- Unsupervised Learning (GAN, VAE, Autoencoder)
+- Unsupervised Learning (Representation Learning, Density Estimation)
 - Free and Open Source Softwares
 - Python and JavaScript
 - Functional Languages
@@ -36,13 +36,14 @@ Education
 
     - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
+    - *Deep Natural Language Processing, <small>Phil Blunsom</small>(DeepMind, Oxford)*
 
 
 Technologies
 ------------
 
 * **Python**: 
-    * Keras, Tensorflow
+    * Keras, Tensorflow, PyTorch
     * Django, Flask, SQLAlchemy, Celery
     * asyncio, Crossbar, Autobahn
 

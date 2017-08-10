@@ -15,8 +15,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Computer Vision (Visual QA, Scene Understanding)
-- Unsupervised Learning (Representation Learning, Density Estimation)
+- Computer Vision (Scene Understanding)
+- Unsupervised Learning (Density Estimation)
 - Free and Open Source Softwares
 - Python and JavaScript
 - Functional Languages

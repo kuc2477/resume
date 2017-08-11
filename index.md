@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: June 19, 2017
+Last Update: Aug 11, 2017
 
 
 Personal Details
@@ -15,8 +15,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Computer Vision (Scene Understanding)
-- Unsupervised Learning (Density Estimation)
+- Computer Vision
+- Unsupervised Learning
 - Free and Open Source Softwares
 - Python and JavaScript
 - Functional Languages
@@ -36,7 +36,7 @@ Education
 
     - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
     - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
-    - *Deep Natural Language Processing, <small>Phil Blunsom (DeepMind, Oxford)</small>*
+    - *Deep Natural Language Processing, <small>Phil Blunsom (DeepMind & Oxford)</small>*
 
 
 Technologies
@@ -140,7 +140,7 @@ Experience
 
 *   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
 
-    *Software Engineer, <small>Mar 2017 - Present</small>*
+    *Software Engineer, <small>Mar 2017 - July 2017</small>*
 
     - Technologies: *Django, Flask, Falcon, SQLAlchemy, Celery, Nginx, AWS, Elasticsearch, Docker*
 

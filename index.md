@@ -71,7 +71,8 @@ Skills
     * ES6/7, Webpack, Immutable
 
 * **Database**: 
-    * MySQL, PostgreSQL, SQLite, Redis
+    * MySQL, PostgreSQL
+    * SQLite, Redis
 
 * **Dev-Ops**:
     * Bash, Git, GNU Make, Docker

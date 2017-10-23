@@ -62,11 +62,11 @@ Skills
     * PyTorch, TensorFlow, Keras
     * NumPy, SciPy, Scikit-Learn
 
-* **Backend / Python**: 
+* **Backend | Python**: 
     * Django, Flask, SQLAlchemy, Celery, 
     * asyncio, Crossbar, Autobahn, RabbitMQ
 
-* **Frontend / JavaScript**: 
+* **Frontend | JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
     * ES6/7, Webpack, Immutable
 

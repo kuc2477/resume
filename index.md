@@ -35,8 +35,8 @@ Education
 
 Paper Implementations
 ---------------------
-* **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: <small>[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016](https://arxiv.org/abs/1511.06434)</small>
-* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: <small>[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)</small>
+* **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016](https://arxiv.org/abs/1511.06434)
+* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)
 * **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: <small>[Wasserstein GAN, arxiv:1701:07875](https://arxiv.org/abs/1701.07875)</small>
 * **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: <small>[Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)</small>
 * **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: <small>[Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796)</small>

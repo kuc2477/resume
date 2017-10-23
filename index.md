@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Aug 11, 2017
+Last Update: Oct 24, 2017
 
 
 Personal Details

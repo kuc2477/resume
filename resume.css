@@ -27,9 +27,7 @@ a:hover {
     color: #33bbdf;
 }
 
-#container {
-    margin: auto;
-    width: 8.3in;
+#container { margin: auto; width: 8.3in;
     padding: .5in 2.0in;
 }
 
@@ -58,6 +56,10 @@ a:hover {
 
 ul {
   list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 0.7em;
 }
 
 ul li ul {

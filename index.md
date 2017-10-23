@@ -33,6 +33,30 @@ Education
     - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
 
+Skills
+------
+
+* **Machine Learning**: 
+    * PyTorch, TensorFlow, Keras
+    * NumPy, SciPy, Scikit-Learn
+
+* **Backend | Python**: 
+    * Django, Flask, SQLAlchemy, Celery, 
+    * asyncio, Crossbar, Autobahn, RabbitMQ
+
+* **Frontend | JavaScript**: 
+    * Backbone, React, Redux, Electron, Autobahn
+    * ES6/7, Webpack, Immutable
+
+* **Database**: 
+    * MySQL, PostgreSQL
+    * SQLite, Redis
+
+* **DevOps**:
+    * Bash, Git, GNU Make, Docker
+    * Travis CI, Coveralls, Fabric, AWS, Nginx
+
+
 Paper Implementations
 ---------------------
 * **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017 [<small>[&#128279;]</small>](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
@@ -53,30 +77,6 @@ Open Sources
 * **[backbone-csrf](https://github.com/kuc2477/backbone-csrf)**: Configure X-CSRFToken header for all Backbone sync requests
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy comliant environment files and its automated installation.
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
-
-
-Skills
-------
-
-* **Machine Learning**: 
-    * PyTorch, TensorFlow, Keras
-    * NumPy, SciPy, Scikit-Learn
-
-* **Backend | Python**: 
-    * Django, Flask, SQLAlchemy, Celery, 
-    * asyncio, Crossbar, Autobahn, RabbitMQ
-
-* **Frontend | JavaScript**: 
-    * Backbone, React, Redux, Electron, Autobahn
-    * ES6/7, Webpack, Immutable
-
-* **Database**: 
-    * MySQL, PostgreSQL
-    * SQLite, Redis
-
-* **Dev-Ops**:
-    * Bash, Git, GNU Make, Docker
-    * Travis CI, Coveralls, Fabric, AWS, Nginx
 
 
 Work Experience

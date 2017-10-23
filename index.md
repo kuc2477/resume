@@ -47,12 +47,29 @@ Paper Implementations
 
     TensorFlow implementation of [Wasserstein GAN, arxiv:1701:07875](https://arxiv.org/abs/1701.07875)
 
-* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: <small>[Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)</small>
-* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: <small>[Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796)</small>
-* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: <small>[End-To-End Memory Networks, NIPS 2015](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)</small>
-* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: <small>[Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)</small>
-* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: <small>[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)</small>
-* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: <small>[Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)</small>
+* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**
+
+    PyTorch implementation of [Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)
+
+* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)** 
+
+    PyTorch implementation of [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796)
+
+* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)** 
+
+    PyTorch implementation of [End-To-End Memory Networks, NIPS 2015](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+
+* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)** 
+
+    PyTorch implementation of [Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)
+
+* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**
+
+    PyTorch implementation of [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
+
+* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)** 
+
+    PyTorch implementation of [Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
 
 
 Open Sources

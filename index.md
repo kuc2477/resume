@@ -51,7 +51,7 @@ Open Sources
 * **[dl-papers](https://github.com/kuc2477/dl-papers)**: Deep Learning papers which enlightened me
 * **[django-record](https://github.com/kuc2477/django-record)**: Records snapshot of Django model instances on their updates
 * **[backbone-csrf](https://github.com/kuc2477/backbone-csrf)**: Configure X-CSRFToken header for all Backbone sync requests
-* **[dotfiles](https://github.com/kuc2477/dotfiles)**: Personal environment which comliants UNIX philosophy
+* **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy comliant environment files and neat automated installation.
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
 
 

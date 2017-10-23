@@ -33,8 +33,8 @@ Education
     - *B.S. in Software Engineering, <small>May 2013 - 2019 (expected)</small>*  
     - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
-Experience
-----------
+Work Experience
+---------------
 
 *   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. <i><small>**Software Delveopment Intern**, Jul 2014 - Aug 2014</small></i>
 *   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. <i><small>**Software Development Intern**, Jan 2015 - Mar 2015</small></i>

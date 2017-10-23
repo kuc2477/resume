@@ -15,10 +15,11 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Computer Vision
-- Unsupervised Learning
+- Memory in Neural Networks
+- Probability Density Estimation
+- Representation Learning
 - Free and Open Source Softwares
-- Python and JavaScript
+- Scalable Software Architectures
 - Functional Languages
 - CLI Tools
 
@@ -28,120 +29,59 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering, <small>May 2013 - Present</small>*
-    - *B.S. in Mathematics, <small>Aug 2014 - Present</small>*
+    - *B.S. in Software Engineering, <small>May 2013 - 2019 (expected)</small>*
+    - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
 
-* **Internet OCW**
+Paper Implementations
+---------------------
+* **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: <small>[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016](https://arxiv.org/abs/1511.06434)</small>
+* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: <small>[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)</small>
+* **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: <small>[Wasserstein GAN, arxiv:1701:07875](https://arxiv.org/abs/1701.07875)</small>
+* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: <small>[Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)</small>
+* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: <small>[Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796)</small>
+* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: <small>[End-To-End Memory Networks, NIPS 2015](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)</small>
+* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: <small>[Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)</small>
+* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: <small>[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)</small>
+* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: <small>[Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)</small>
 
-    - *Machine Learning, <small>Andrew Ng (Coursera, Stanford)</small>*
-    - *Convolutional Neural Network for Visual Recognition, <small>Fei-Fei Li (Stanford)</small>*
-    - *Deep Natural Language Processing, <small>Phil Blunsom (DeepMind & Oxford)</small>*
 
-
-Technologies
+Open Sources
 ------------
+* **[dl-papers](https://github.com/kuc2477/dl-papers)**: Deep Learning papers which enlightened me
+* **[django-record](https://github.com/kuc2477/django-record)**: Records snapshot of Django model instances on their updates
+* **[backbone-csrf](https://github.com/kuc2477/backbone-csrf)**: Configure X-CSRFToken header for all Backbone sync requests
+* **[dotfiles](https://github.com/kuc2477/dotfiles)**: Personal environment which comliants UNIX philosophy
+* **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
 
-* **Python**: 
-    * Keras, TensorFlow, PyTorch
-    * Django, Flask, SQLAlchemy, Celery
-    * asyncio, Crossbar, Autobahn
 
-* **JavaScript**: 
+Skills
+------
+
+* **Machine Learning**: 
+    * PyTorch, TensorFlow, Keras
+    * NumPy, SciPy, Scikit-Learn
+
+* **Backend / Python**: 
+    * Django, Flask, SQLAlchemy, Celery, 
+    * asyncio, Crossbar, Autobahn, RabbitMQ
+
+* **Frontend / JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
-    * ES6, Webpack, Immutable
+    * ES6/7, Webpack, Immutable
 
 * **Database**: 
     * MySQL, PostgreSQL, SQLite, Redis
 
-* **Others**: 
+* **Dev-Ops**:
     * Bash, Git, GNU Make, Docker
-    * Travis CI, Coveralls, Fabric, AWS
+    * Travis CI, Coveralls, Fabric, AWS, Nginx
 
 
-Open Source Projects
----------------------
-* **[dl-papers](https://github.com/kuc2477/dl-papers)**
+Work Experience
+---------------
 
-    *Categorized list of Deep Learning papers which gave me meaningful insights*
-
-    - Technologies: TensorFlow, PyTorch
-    - Features:
-        - Categorized by their related models and intuitions behind them.
-        - Implemented in either *TensorFlow* or *PyTorch*.
-
-* **[oracle](https://github.com/kuc2477/oracle)**:
-
-    *Oracle drops you a prophecy whether if your boss will come to work today*
-
-    - Technologies: scikit-learn
-    - Features:
-        - Decision-tree-based prediction on whether if your boss will come to work today. 
-
-*   **[neural-three-kingdoms](https://github.com/kuc2477/neural-three-kingdoms)**:
-
-    *Text generating bidirectional LSTM learned from 삼국지 of 이문열*
-
-    - Technologies: Keras
-    - Features: 
-        - Generates 삼국지 style text from a given sentence
-
-*   **[news](https://github.com/kuc2477/news)**:
-
-    *Asynchronous web subscription engine*
-
-    - Technologies: asyncio, aiohttp, Redis, Celery
-    - Features:
-        - Built on top of *asyncio* and *aiohttp*.
-        - Supports pluggable backends including *Django ORM* and *SQLAlchemy*.
-        - Supports optional schedule persistence via redis.
-
-*   **[django-record](https://github.com/kuc2477/django-record)**:
-
-    *Take snapshots of model instances on their changes*
-
-    - Technologies: Django ORM
-    - Features:
-        - Provides simple mixin which gives auto recording functionality to models.
-        - Provides automatic recording for both direct and indirect changes of model instances.
-        - Supports property recording for properties that return python primitives.
-
-
-Experience
------------
-
-*   **LG Electronics Co., Ltd.** <small>Seocho, Seoul, Korea</small>
-
-    *Software Delveopment Intern, <small>Jul 2014 - Aug 2014</small>*
-
-    - Technologies: *Python*
-    - Works:
-        - Developed Excel table parser and JIRA API wrapper.
-        - Automated issue reporting system with the JIRA API wrapper.
-        - Tested LG smart TV ported version of WebOS.
-
-*   **Nexol System Co., Ltd.** <small>Geumcheon, Seoul, Korea</small>
-
-    *Software Development Intern, <small>Jan 2015 - Mar 2015</small>*
-
-    - Technologies: *Android, Struts2*
-    - Works:
-        - Developed mobile android CMS application for *Samsonite. Korea*.
-        - Maintained Struts2 powered backend's CMS validation system for *Samsonite. Korea*.
-
-*   **Geopia Co., Ltd.** <small>Geumcheon, Seoul, Korea</small> 
-
-    *Software Developer, <small>Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>*
-
-    - Technologies: *Android, PHP*
-    - Works: 
-        - Developed and maintained Android applications for 5 mobile dating services.
-        - Developed and maintained PHP backends for 5 mobile dating services.
-
-*   **Buzzni Co., Ltd.** <small>Gwanak, Seoul, Korea</small> 
-
-    *Software Engineer, <small>Mar 2017 - July 2017</small>*
-
-    - Technologies: *Django, Flask, Falcon, SQLAlchemy, Celery, Nginx, AWS, Elasticsearch, Docker*
-
-
+*   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. *<small>**Software Delveopment Intern**, Jul 2014 - Aug 2014</small>*
+*   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. *<small>**Software Development Intern**, Jan 2015 - Mar 2015</small>*
+*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. *<small>**Full-Stack Software Developer**, Apr 2015 - Feb 2017* (Substitue of Mandatory Military Service)</small>
+*   **Buzzni** <small>Gwanak, Seoul, Korea</small>. *<small>**Backend Software Engineer**, Mar 2017 - July 2017</small>*

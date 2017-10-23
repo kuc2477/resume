@@ -33,14 +33,6 @@ Education
     - *B.S. in Software Engineering, <small>May 2013 - 2019 (expected)</small>*  
     - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
-Work Experience
----------------
-
-*   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. <i><small>**Software Delveopment Intern**, Jul 2014 - Aug 2014</small></i>
-*   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. <i><small>**Software Development Intern**, Jan 2015 - Mar 2015</small></i>
-*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. <i><small>**Full-Stack Software Developer**, Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
-*   **Buzzni** <small>Gwanak, Seoul, Korea</small>. <i><small>**Backend Software Engineer**, Mar 2017 - July 2017</small></i>
-
 
 Skills
 ------
@@ -86,3 +78,12 @@ Open Sources
 * **[backbone-csrf](https://github.com/kuc2477/backbone-csrf)**: Configure X-CSRFToken header for all Backbone sync requests
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy comliant environment files and its automated installation.
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
+
+
+Work Experience
+---------------
+
+*   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. <i><small>**Software Delveopment Intern**, Jul 2014 - Aug 2014</small></i>
+*   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. <i><small>**Software Development Intern**, Jan 2015 - Mar 2015</small></i>
+*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. <i><small>**Full-Stack Software Developer**, Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
+*   **Buzzni** <small>Gwanak, Seoul, Korea</small>. <i><small>**Backend Software Engineer**, Mar 2017 - July 2017</small></i>

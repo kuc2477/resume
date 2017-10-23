@@ -36,14 +36,14 @@ Education
 Paper Implementations
 ---------------------
 * **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016 [<small>[&#128279;]</small>](https://arxiv.org/abs/1511.06434)
-* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)
-* **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: [Wasserstein GAN, arxiv:1701:07875](https://arxiv.org/abs/1701.07875)
-* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: [Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)
-* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796)
-* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: [End-To-End Memory Networks, NIPS 2015](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
-* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: [Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)
-* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
-* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: [Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
+* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016 [<small>[&#128279;]</small>](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)
+* **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: Wasserstein GAN, arxiv:1701:07875 [<small>[&#128279;]</small>](https://arxiv.org/abs/1701.07875)
+* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: Auto-Encoding Variational Bayes, arxiv:1312.6114 [<small>[&#128279;]</small>](https://arxiv.org/abs/1312.6114)
+* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: Overcoming Catastrophic Forgetting, PNAS 2017 [<small>[&#128279;]</small>](https://arxiv.org/abs/1612.00796)
+* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: End-To-End Memory Networks, NIPS 2015 [<small>[&#128279;]</small>](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: Neural Turing Machines, arxiv:1410.5401 [<small>[&#128279;]</small>](https://arxiv.org/abs/1410.5401)
+* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017 [<small>[&#128279;]</small>](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
+* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: Wide Residual Networks, BMVC 2016 [<small>[&#128279;]</small>](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
 
 
 Open Sources

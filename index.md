@@ -84,5 +84,5 @@ Work Experience
 
 *   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. ***Software Delveopment Intern**, Jul 2014 - Aug 2014*
 *   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. ***Software Development Intern**, Jan 2015 - Mar 2015*
-*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. ***Full-Stack Software Developer**, Apr 2015 - Feb 2017* (Substitue of Mandatory Military Service)
+*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. ***Full-Stack Software Developer**, Apr 2015 - Feb 2017* <small>(Substitue of Mandatory Military Service)</small>
 *   **Buzzni** <small>Gwanak, Seoul, Korea</small>. ***Backend Software Engineer**, Mar 2017 - July 2017*

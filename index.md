@@ -18,7 +18,6 @@ Interests
 - Memory in Neural Networks
 - Probability Density Estimation
 - Representation Learning
-- Unsupervised Learning
 - Free and Open Source Softwares
 - Scalable Software Architectures
 - Functional Languages

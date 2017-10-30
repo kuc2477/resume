@@ -60,7 +60,8 @@ Skills
 
 Paper Implementations
 ---------------------
-- **[pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)**: Improved Training of Wasserstein GANs, arxiv:1704:00028 [<small>[link]</small>](https://arxiv.org/abs/1704.00028)
+- **[pytorch-deep-generative-replay](https://github.com/kuc2477/pytorch-deep-generative-replay)**: Continual Learning with Deep Generative Replay, arxiv:1705.08690 [<small>[link]</small>](https://arxiv.org/abs/1705.08690)
+- **[pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)**: Improved Training of Wasserstein GANs, arxiv:1704.00028 [<small>[link]</small>](https://arxiv.org/abs/1704.00028)
 * **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017 [<small>[link]</small>](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
 * **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: Neural Turing Machines, arxiv:1410.5401 [<small>[link]</small>](https://arxiv.org/abs/1410.5401)
 * **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: End-To-End Memory Networks, NIPS 2015 [<small>[link]</small>](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)

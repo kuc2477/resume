@@ -38,7 +38,7 @@ Skills
 ------
 
 * **Machine Learning**: 
-    * PyTorch, TensorFlow 
+    * PyTorch, TensorFlow, Keras
     * NumPy, SciPy, Scikit-Learn, Visdom
 
 * **Backend | Python**: 

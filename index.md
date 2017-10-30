@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Oct 24, 2017
+Last Update: Oct 31, 2017
 
 
 Personal Details
@@ -15,9 +15,9 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Memory in Neural Networks
 - Probability Density Estimation
-- Representation Learning
+- Memory in Neural Networks
+- Unsupervised Representation Learning
 - Continual Learning
 - Free and Open Source Softwares
 - Scalable Software Architectures

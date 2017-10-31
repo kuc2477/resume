@@ -15,9 +15,9 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
+- Unsupervised Representation Learning
 - Probability Density Estimation
 - Memory in Neural Networks
-- Unsupervised Representation Learning
 - Continual Learning
 - Free and Open Source Softwares
 - Scalable Software Architectures

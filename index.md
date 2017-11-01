@@ -34,30 +34,6 @@ Education
     - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
 
-Skills
-------
-
-* **Machine Learning**: 
-    * PyTorch, TensorFlow, Keras
-    * NumPy, SciPy, Scikit-Learn, Visdom
-
-* **Backend | Python**: 
-    * Django, Flask, SQLAlchemy, Celery, 
-    * asyncio, Crossbar, Autobahn, RabbitMQ
-
-* **Frontend | JavaScript**: 
-    * Backbone, React, Redux, Electron, Autobahn
-    * ES6/7, Webpack, Immutable
-
-* **Database**: 
-    * MySQL, PostgreSQL
-    * SQLite, Redis
-
-* **DevOps**:
-    * Bash, Git, GNU Make, Docker
-    * Travis CI, Coveralls, Fabric, AWS, Nginx
-
-
 Paper Implementations
 ---------------------
 - **[pytorch-deep-generative-replay](https://github.com/kuc2477/pytorch-deep-generative-replay)**: Continual Learning with Deep Generative Replay, NIPS 2017 [<small>[link]</small>](https://arxiv.org/abs/1705.08690)
@@ -80,6 +56,30 @@ Open Sources
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**: Configure X-CSRFToken header for all Backbone sync requests
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
+
+
+Skills
+------
+
+* **Machine Learning**: 
+    * PyTorch, TensorFlow, Keras
+    * NumPy, SciPy, Scikit-Learn, Visdom
+
+* **Backend | Python**: 
+    * Django, Flask, SQLAlchemy, Celery, 
+    * asyncio, Crossbar, Autobahn, RabbitMQ
+
+* **Frontend | JavaScript**: 
+    * Backbone, React, Redux, Electron, Autobahn
+    * ES6/7, Webpack, Immutable
+
+* **Database**: 
+    * MySQL, PostgreSQL
+    * SQLite, Redis
+
+* **DevOps**:
+    * Bash, Git, GNU Make, Docker
+    * Travis CI, Coveralls, Fabric, AWS, Nginx
 
 
 Work Experience

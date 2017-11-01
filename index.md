@@ -34,30 +34,6 @@ Education
     - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
 
 
-Paper Implementations
----------------------
-- **[pytorch-deep-generative-replay](https://github.com/kuc2477/pytorch-deep-generative-replay)**: Continual Learning with Deep Generative Replay, NIPS 2017 [<small>[link]</small>](https://arxiv.org/abs/1705.08690)
-- **[pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)**: Improved Training of Wasserstein GANs, arxiv:1704.00028 [<small>[link]</small>](https://arxiv.org/abs/1704.00028)
-* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017 [<small>[link]</small>](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
-* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: Neural Turing Machines, arxiv:1410.5401 [<small>[link]</small>](https://arxiv.org/abs/1410.5401)
-* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: End-To-End Memory Networks, NIPS 2015 [<small>[link]</small>](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
-* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: Overcoming Catastrophic Forgetting, PNAS 2017 [<small>[link]</small>](https://arxiv.org/abs/1612.00796)
-* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: Auto-Encoding Variational Bayes, arxiv:1312.6114 [<small>[link]</small>](https://arxiv.org/abs/1312.6114)
-* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: Wide Residual Networks, BMVC 2016 [<small>[link]</small>](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
-* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016 [<small>[link]</small>](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)
-* **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: Wasserstein GAN, arxiv:1701:07875 [<small>[link]</small>](https://arxiv.org/abs/1701.07875)
-* **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016 [<small>[link]</small>](https://arxiv.org/abs/1511.06434)
-
-
-Open Sources
-------------
-* **[dl-papers](https://github.com/kuc2477/dl-papers)**: Deep Learning papers which enlightened me
-* **[django-record](https://github.com/kuc2477/django-record)**: Records snapshot of Django model instances on their updates
-* **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**: Configure X-CSRFToken header for all Backbone sync requests
-* **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files
-* **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
-
-
 Skills
 ------
 
@@ -80,6 +56,30 @@ Skills
 * **DevOps**:
     * Bash, Git, GNU Make, Docker
     * Travis CI, Coveralls, Fabric, AWS, Nginx
+
+
+Paper Implementations
+---------------------
+- **[pytorch-deep-generative-replay](https://github.com/kuc2477/pytorch-deep-generative-replay)**: Continual Learning with Deep Generative Replay, NIPS 2017 [<small>[link]</small>](https://arxiv.org/abs/1705.08690)
+- **[pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)**: Improved Training of Wasserstein GANs, arxiv:1704.00028 [<small>[link]</small>](https://arxiv.org/abs/1704.00028)
+* **[pytorch-splitnet](https://github.com/kuc2477/pytorch-splitnet)**: SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, ICML 2017 [<small>[link]</small>](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
+* **[pytorch-ntm](https://github.com/kuc2477/pytorch-ntm)**: Neural Turing Machines, arxiv:1410.5401 [<small>[link]</small>](https://arxiv.org/abs/1410.5401)
+* **[pytorch-memn2n](https://github.com/kuc2477/pytorch-memn2n)**: End-To-End Memory Networks, NIPS 2015 [<small>[link]</small>](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+* **[pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)**: Overcoming Catastrophic Forgetting, PNAS 2017 [<small>[link]</small>](https://arxiv.org/abs/1612.00796)
+* **[pytorch-vae](https://github.com/kuc2477/pytorch-vae)**: Auto-Encoding Variational Bayes, arxiv:1312.6114 [<small>[link]</small>](https://arxiv.org/abs/1312.6114)
+* **[pytorch-wrn](https://github.com/kuc2477/pytorch-wrn)**: Wide Residual Networks, BMVC 2016 [<small>[link]</small>](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
+* **[tensorflow-infogan](https://github.com/kuc2477/tensorflow-infogan)**: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016 [<small>[link]</small>](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets)
+* **[tensorflow-wgan](https://github.com/kuc2477/tensorflow-wgan)**: Wasserstein GAN, arxiv:1701:07875 [<small>[link]</small>](https://arxiv.org/abs/1701.07875)
+* **[tensorflow-dcgan](https://github.com/kuc2477/tensorflow-dcgan)**: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016 [<small>[link]</small>](https://arxiv.org/abs/1511.06434)
+
+
+Open Sources
+------------
+* **[dl-papers](https://github.com/kuc2477/dl-papers)**: Deep Learning papers which enlightened me
+* **[django-record](https://github.com/kuc2477/django-record)**: Records snapshot of Django model instances on their updates
+* **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**: Configure X-CSRFToken header for all Backbone sync requests
+* **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files
+* **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
 
 
 Work Experience

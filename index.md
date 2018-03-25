@@ -15,10 +15,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Unsupervised Representation Learning
-- Probability Density Estimation
+- Implicit Probability Density Estimation
 - Memory in Neural Networks
-- Continual Learning
 - Free and Open Source Softwares
 - Scalable Software Architectures
 - Functional Languages
@@ -30,8 +28,8 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering, <small>May 2013 - 2019 (expected)</small>*  
-    - *B.S. in Mathematics, <small>Aug 2014 - 2019 (expected)</small>*
+    - *B.S. in Software Engineering, <small>May 2013 - Dec 2019 (expected)</small>*  
+    - *B.S. in Mathematics, <small>Aug 2014 - Dec 2019 (expected)</small>*
 
 
 Skills

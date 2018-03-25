@@ -15,7 +15,7 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Implicit Probability Density Estimation
+- Probability Density Estimation
 - Memory in Neural Networks
 - Free and Open Source Softwares
 - Scalable Software Architectures

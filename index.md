@@ -38,21 +38,20 @@ Education
 Publications
 ------------
 - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
-    <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>
+    <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>  
     <small>International Conference on Learning Representations (ICLR), 2019.</small>
 
 
 Research Experience
 -------------------
-* **SNU Vision & Learning Lab** <small>Seoul, Korea</small>  
-    **Undergraduate Research Intern**, <small>Dec 2017 - Now</small>
+* **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Now</small>  
+    <small>Undergraduate Research Intern</small>
 
 
 Work Experience
 ---------------
 
-* **LG Electronics Inc.** <small>Seoul, Korea.</small>
-    **Software Delveopment Intern**, <small>Jul 2014 - Aug 2014</small>
+* **LG Electronics Inc.** <small>Seoul, Korea.</small>  <i>**Software Delveopment Intern**, <small>Jul 2014 - Aug 2014</small></i>
 * **Nexol System Inc.** <small>Seoul, Korea</small>. <i>**Software Development Intern**, <small>Jan 2015 - Mar 2015</small></i>
 * **Geopia** <small>Seoul, Korea</small>. <i>**Full-Stack Software Developer**, <small>Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
 * **Buzzni** <small>Seoul, Korea</small>. <i>**Backend Software Engineer**, <small>Mar 2017 - July 2017</small></i> 

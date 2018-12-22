@@ -29,10 +29,10 @@ Interests
 Education
 ---------
 
-* **Hanyang University** (Seoul)
-    B.E. in Software, <small>May 2013 - Dec 2020 (expected)</small>  
-    B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>  
-    B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>  
+* **Hanyang University** (Seoul)  
+    - B.E. in Software, <small>May 2013 - Dec 2020 (expected)</small>  
+    - B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>  
+    - B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>  
 
 
 
@@ -82,7 +82,7 @@ Skills
     * ES6/7, Webpack, Immutable
 
 
-* **Database / MQ **: 
+* **Database & Message Queue**: 
     * MySQL, PostgreSQL, SQLite
     * Redis, RabbitMQ
 

@@ -45,7 +45,7 @@ Publications
 Research Experience
 -------------------
 * **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Now</small>  
-    <small>Undergraduate Research Intern</small>
+    Undergraduate Research Intern
 
 
 Work Experience

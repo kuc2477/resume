@@ -35,6 +35,7 @@ Education
     - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
 
 
+
 Publications
 ------------
 - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
@@ -42,10 +43,12 @@ Publications
     International Conference on Learning Representations (ICLR), 2019.
 
 
+
 Research Experience
 -------------------
 * **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Now</small>  
     Undergraduate Research Intern
+
 
 
 Work Experience
@@ -57,7 +60,7 @@ Work Experience
     Software Development Intern
 * **Geopia** <small>Seoul, Korea. Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>  
     Full-Stack Software Developer
-* **Buzzni** <small>Seoul, Korea. Mar 2017 - July 2017</small> 
+* **Buzzni** <small>Seoul, Korea. Mar 2017 - July 2017</small>   
     Backend Software Engineer
 
 

@@ -30,9 +30,9 @@ Education
 ---------
 
 * **Hanyang University** (Seoul)
-    - *B.E. in Software, <small>May 2013 - Dec 2020 (expected)</small>*  
-    - *B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>*  
-    - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
+    B.E. in Software, <small>May 2013 - Dec 2020 (expected)</small>  
+    B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>  
+    B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>  
 
 
 
@@ -40,7 +40,7 @@ Publications
 ------------
 - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
     Soochan Lee, **Junsoo Ha**, Gunhee Kim  
-    International Conference on Learning Representations (ICLR), 2019.
+    *International Conference on Learning Representations (ICLR)*, 2019.
 
 
 

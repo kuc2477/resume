@@ -30,9 +30,9 @@ Education
 ---------
 
 * **Hanyang University** (Seoul)
-    *B.E. in Software Engineering, <small>May 2013 - Dec 2020 (expected)</small>*  
-    *B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>*
-    *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
+    - *B.E. in Software Engineering, <small>May 2013 - Dec 2020 (expected)</small>*  
+    - *B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>*
+    - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
 
 
 Publications

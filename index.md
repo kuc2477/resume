@@ -82,7 +82,7 @@ Skills
     * ES6/7, Webpack, Immutable
 
 
-* **Database & Message Queue**: 
+* **Database**: 
     * MySQL, PostgreSQL, SQLite
     * Redis, RabbitMQ
 

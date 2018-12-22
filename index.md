@@ -38,8 +38,8 @@ Education
 Publications
 ------------
 - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
-    <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>  
-    <small>International Conference on Learning Representations (ICLR), 2019.</small>
+    Soochan Lee, **Junsoo Ha**, Gunhee Kim  
+    International Conference on Learning Representations (ICLR), 2019.
 
 
 Research Experience

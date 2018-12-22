@@ -36,13 +36,16 @@ Education
     - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
 
 
+Publications
+------------
+- <li>Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation</li>
+    <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>
+    <small>International Conference on Learning Representations (ICLR), 2019.</small>
+
+
 Research Experience
 -------------------
 * **SNU Vision & Learning Lab** <small>Seoul, Korea</small>. **Undergraduate Research Intern**, <small>Dec 2017 - Now</small>
-    - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
-        <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>
-        <small>International Conference on Learning Representations (ICLR), 2019.</small>
-
 
 
 Work Experience

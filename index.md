@@ -51,7 +51,8 @@ Research Experience
 Work Experience
 ---------------
 
-* **LG Electronics Inc.** <small>Seoul, Korea.</small>  <i>**Software Delveopment Intern**, <small>Jul 2014 - Aug 2014</small></i>
+* **LG Electronics Inc.** <small>Seoul, Korea. Jul 2014 - Aug 2014</small>
+    Software Delveopment Intern
 * **Nexol System Inc.** <small>Seoul, Korea</small>. <i>**Software Development Intern**, <small>Jan 2015 - Mar 2015</small></i>
 * **Geopia** <small>Seoul, Korea</small>. <i>**Full-Stack Software Developer**, <small>Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
 * **Buzzni** <small>Seoul, Korea</small>. <i>**Backend Software Engineer**, <small>Mar 2017 - July 2017</small></i> 

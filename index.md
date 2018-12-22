@@ -5,12 +5,14 @@ Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | 
 Last Update: Dec 31, 2018
 
 
+
 Personal Details
 ---------------
 Email:      kuc2477@gmail.com   
 Phone:      +82 10-6766-2477  
 Address:    서울시 성동구 마조로 15-16, 203  
 Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](http://hajunsoo.org)  
+
 
 
 Interests
@@ -23,6 +25,7 @@ Interests
 - CLI Tools
 
 
+
 Education
 ---------
 
@@ -33,9 +36,19 @@ Education
     - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
 
 
+
+Publications
+------------
+- Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
+    <small>Soochan Lee, **Junsoo Ha**, Gunhee Kim</small>
+    <small>International Conference on Learning Representations (ICLR), 2019.</small>
+
+
+
 Research Experience
 -------------------
 * **SNU Vision & Learning Lab** <small>Seoul, Korea</small>. **Undergraduate Research Intern**, <small>Dec 2017 - Now</small>
+
 
 
 Work Experience
@@ -50,26 +63,30 @@ Work Experience
 
 Skills
 ------
-
 * **Machine Learning**: 
     * PyTorch, TensorFlow, Keras
     * NumPy, SciPy, Scikit-Learn
+
 
 * **Backend | Python**: 
     * Django, Flask, SQLAlchemy, Celery
     * asyncio, Crossbar, Autobahn, 
 
+
 * **Frontend | JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
     * ES6/7, Webpack, Immutable
+
 
 * **Database / MQ **: 
     * MySQL, PostgreSQL, SQLite
     * Redis, RabbitMQ
 
+
 * **DevOps**:
     * Bash, Git, GNU Make, Docker
     * Travis CI, Coveralls, Fabric, AWS, Nginx
+
 
 
 Paper Implementations
@@ -94,4 +111,3 @@ Open Sources
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**: Configure X-CSRFToken header for all Backbone sync requests
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
-

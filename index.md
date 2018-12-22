@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Oct 31, 2017
+Last Update: Dec 31, 2018
 
 
 Personal Details
@@ -15,8 +15,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Probability Density Estimation
-- Memory in Neural Networks
+- Deep Generative Models
+- Generalization in Deep Neural Networks
 - Free and Open Source Softwares
 - Scalable Software Architectures
 - Functional Languages
@@ -28,8 +28,24 @@ Education
 
 * **Hanyang University** (Seoul)
 
-    - *B.S. in Software Engineering, <small>May 2013 - Dec 2019 (expected)</small>*  
-    - *B.S. in Mathematics, <small>Aug 2014 - Dec 2019 (expected)</small>*
+    - *B.E. in Software Engineering, <small>May 2013 - Dec 2020 (expected)</small>*  
+    - *B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>*
+    - *B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>*
+
+
+Research Experience
+-------------------
+* **SNU Vision & Learning Lab** <small>Seoul, Korea</small>. **Undergraduate Research Intern**, <small>Dec 2017 - Now</small>
+
+
+Work Experience
+---------------
+
+*   **LG Electronics Inc.** <small>Seoul, Korea</small>. <i>**Software Delveopment Intern**, <small>Jul 2014 - Aug 2014</small></i>
+*   **Nexol System Inc.** <small>Seoul, Korea</small>. <i>**Software Development Intern**, <small>Jan 2015 - Mar 2015</small></i>
+*   **Geopia** <small>Seoul, Korea</small>. <i>**Full-Stack Software Developer**, <small>Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
+*   **Buzzni** <small>Seoul, Korea</small>. <i>**Backend Software Engineer**, <small>Mar 2017 - July 2017</small></i> 
+
 
 
 Skills
@@ -37,19 +53,19 @@ Skills
 
 * **Machine Learning**: 
     * PyTorch, TensorFlow, Keras
-    * NumPy, SciPy, Scikit-Learn, Visdom
+    * NumPy, SciPy, Scikit-Learn
 
 * **Backend | Python**: 
-    * Django, Flask, SQLAlchemy, Celery, 
-    * asyncio, Crossbar, Autobahn, RabbitMQ
+    * Django, Flask, SQLAlchemy, Celery
+    * asyncio, Crossbar, Autobahn, 
 
 * **Frontend | JavaScript**: 
     * Backbone, React, Redux, Electron, Autobahn
     * ES6/7, Webpack, Immutable
 
-* **Database**: 
-    * MySQL, PostgreSQL
-    * SQLite, Redis
+* **Database / MQ **: 
+    * MySQL, PostgreSQL, SQLite
+    * Redis, RabbitMQ
 
 * **DevOps**:
     * Bash, Git, GNU Make, Docker
@@ -79,11 +95,3 @@ Open Sources
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files
 * **[news](https://github.com/kuc2477/news)**: Asynchronous web subscription engine written in asnycio and aiohttp
 
-
-Work Experience
----------------
-
-*   **LG Electronics Inc.** <small>Seocho, Seoul, Korea</small>. <i>**Software Delveopment Intern**, <small>Jul 2014 - Aug 2014</small></i>
-*   **Nexol System Inc.** <small>Geumcheon, Seoul, Korea</small>. <i>**Software Development Intern**, <small>Jan 2015 - Mar 2015</small></i>
-*   **Geopia** <small>Geumcheon, Seoul, Korea</small>. <i>**Full-Stack Software Developer**, <small>Apr 2015 - Feb 2017</small></i> <small>(Substitue of Mandatory Military Service)</small>
-*   **Buzzni** <small>Gwanak, Seoul, Korea</small>. <i>**Backend Software Engineer**, <small>Mar 2017 - July 2017</small></i>

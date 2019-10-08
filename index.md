@@ -47,12 +47,6 @@ Research Experience
     Undergraduate Research Intern
 
 
-Honors & Awards
----------------
-- Silver Prize <small>25th *Samsung Human-Tech Paper Award*, 2019</small>
-- Distinguished Service Award <small>*Hanyang University*, 2019</small>
-
-
 Work Experience
 ---------------
 
@@ -64,6 +58,12 @@ Work Experience
     Full-Stack Software Developer
 * **Buzzni** <small>Seoul, Korea. Mar 2017 - July 2017</small>   
     Backend Software Engineer
+
+
+Honors & Awards
+---------------
+- Silver Prize <small>25th *Samsung Human-Tech Paper Award*, 2019</small>
+- Distinguished Service Award <small>*Hanyang University*, 2019</small>
 
 
 

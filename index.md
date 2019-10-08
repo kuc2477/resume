@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Dec 31, 2018
+Last Update: Oct 9, 2019
 
 
 
@@ -11,18 +11,17 @@ Personal Details
 Email:      kuc2477@gmail.com   
 Phone:      +82 10-6766-2477  
 Address:    서울시 성동구 마조로 15-16, 203  
-Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477) | [Blog](http://hajunsoo.org)  
+Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-identity-name) | [Github](https://github.com/kuc2477)
 
 
 
 Interests
 ---------
 - Deep Generative Models
-- Generalization in Deep Neural Networks
-- Free and Open Source Softwares
+- Non-Euclidean Geometry in Deep Learning
 - Scalable Software Architectures
 - Functional Languages
-- CLI Tools
+- Cute CLI Tools
 
 
 
@@ -30,9 +29,8 @@ Education
 ---------
 
 * **Hanyang University** (Seoul)  
-    - B.E. in Software, <small>May 2013 - Dec 2020 (expected)</small>  
-    - B.S. in Mathematics, <small>Aug 2014 - Dec 2020 (expected)</small>  
-    - B.S. in Physics, <small>Oct 2018 - Dec 2020 (expected)</small>  
+    - B.E. in Software, <small>May 2013 - Apr 2020 (expected)</small>  
+    - B.S. in Mathematics, <small>Aug 2014 - Apr 2020 (expected)</small>  
 
 
 
@@ -43,12 +41,16 @@ Publications
     *International Conference on Learning Representations (ICLR)*, 2019.
 
 
-
 Research Experience
 -------------------
 * **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Now</small>  
     Undergraduate Research Intern
 
+
+Honors & Awards
+---------------
+- Silver Prize <small>25th *Samsung Human-Tech Paper Award*, 2019</small>
+- Distinguished Service Award <small>*Hanyang University*, 2019</small>
 
 
 Work Experience
@@ -110,7 +112,6 @@ Paper Implementations
 
 Open Sources
 ------------
-* **[dl-papers](https://github.com/kuc2477/dl-papers)**: Deep Learning papers which enlightened me
 * **[django-record](https://github.com/kuc2477/django-record)**: Records snapshot of Django model instances on their updates
 * **[backbone.csrf](https://github.com/kuc2477/backbone.csrf)**: Configure X-CSRFToken header for all Backbone sync requests
 * **[dotfiles](https://github.com/kuc2477/dotfiles)**: UNIX philosophy compliant environment files

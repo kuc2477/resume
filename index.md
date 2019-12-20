@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Oct 9, 2019
+Last Update: Dec 20, 2019
 
 
 
@@ -18,9 +18,8 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 Interests
 ---------
 - Deep Generative Models
-- Non-Euclidean Geometry in Deep Learning
+- Training Dynamics of Generative Adversarial Networks
 - Scalable Software Architectures
-- Functional Languages
 - Cute CLI Tools
 
 
@@ -29,13 +28,16 @@ Education
 ---------
 
 * **Hanyang University** (Seoul)  
-    - B.E. in Software, <small>May 2013 - Apr 2020 (expected)</small>  
+    - B.E. in Software, <small>Mar 2013 - Apr 2020 (expected)</small>  
     - B.S. in Mathematics, <small>Aug 2014 - Apr 2020 (expected)</small>  
 
 
 
 Publications
 ------------
+- A Neural Dicihlet Process Mixture Model for Task-Free Continual Learning
+    Soochan Lee, **Junsoo Ha**, Dongsu Zhang, Gunhee Kim
+    *International Conference on Learning Representations (ICLR)*, 2020.
 - Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
     Soochan Lee, **Junsoo Ha**, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2019.
@@ -62,7 +64,7 @@ Work Experience
 
 Honors & Awards
 ---------------
-- Silver Prize <small>25th *Samsung Human-Tech Paper Award*, 2019</small>
+- Silver Prize <small>*25th Samsung Human-Tech Paper Award*, 2019</small>
 - Distinguished Service Award <small>*Hanyang University*, 2019</small>
 
 

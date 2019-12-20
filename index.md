@@ -35,10 +35,10 @@ Education
 
 Publications
 ------------
-- A Neural Dicihlet Process Mixture Model for Task-Free Continual Learning  
+1. A Neural Dicihlet Process Mixture Model for Task-Free Continual Learning  
     Soochan Lee, **Junsoo Ha**, Dongsu Zhang, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2020. 
-- Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
+2. Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
     Soochan Lee, **Junsoo Ha**, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2019.
 

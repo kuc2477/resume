@@ -2,7 +2,7 @@ body {
     background: #FFFFFF;
     color: #333;
     font-family: Verdana, sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 1.5;
 }
 
@@ -28,7 +28,7 @@ a:hover {
 }
 
 #container { margin: auto; width: 9.3in;
-    padding: .5in 1.0in;
+    padding: .5in 2.0in;
 }
 
 #contact {

@@ -2,7 +2,7 @@
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
-Last Update: Dec 20, 2019
+Last Update: Nov 27, 2020
 
 
 
@@ -26,7 +26,7 @@ Interests
 Education
 ---------
 * **Seoul National University** (Seoul)  
-    - M.S. in Artificial Intelligence, <small>Sep 2020 - Aug 2022 (expected)</small>  
+    - M.S. in Artificial Intelligence, <small>Sep 2020 - Aug 2022 (expected)</small>
 * **Hanyang University** (Seoul)  
     - B.E. in Software, <small>Mar 2013 - Aug 2020</small>  
     - B.S. in Mathematics, <small>Aug 2014 - Aug 2020</small>  

@@ -17,18 +17,20 @@ Contact:    [LinkedIn](https://www.linkedin.com/in/junsoo-ha-769a89bb?trk=hp-ide
 
 Interests
 ---------
-- Deep Generative Models
-- Unsupervised Representation Learning
-- Scalable Software Architectures
-- Cute CLI Tools
+- Game Theory & Machine Learning
+- Training Dynamics of Neural Networks
+- Theoretical Understanding of Multi-Agent Learning
 
 
 
 Education
 ---------
+* **Seoul National University** (Seoul)  
+    - M.S. in Artificial Intelligence, <small>Sep 2020 - Aug 2022 (expected)</small>  
+<br/>
 * **Hanyang University** (Seoul)  
-    - B.E. in Software, <small>Mar 2013 - Apr 2020 (expected)</small>  
-    - B.S. in Mathematics, <small>Aug 2014 - Apr 2020 (expected)</small>  
+    - B.E. in Software, <small>Mar 2013 - Aug 2020</small>  
+    - B.S. in Mathematics, <small>Aug 2014 - Aug 2020</small>  
 
 
 
@@ -38,7 +40,6 @@ Publications
     Soochan Lee, **Junsoo Ha**, Dongsu Zhang, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2020. 
 <br/>
-
 * Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
     Soochan Lee, **Junsoo Ha**, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2019.
@@ -46,21 +47,22 @@ Publications
 
 Research Experience
 -------------------
-* **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Now</small>  
+* **SNU Vision & Learning Lab** <small>Seoul, Korea. Sep 2020 - Now</small>  
+    Graduate Research Assistant
+* **SNU Vision & Learning Lab** <small>Seoul, Korea. Dec 2017 - Aug 2020</small>  
     Undergraduate Research Intern
 
 
 Work Experience
 ---------------
-
-* **LG Electronics Inc.** <small>Seoul, Korea. Jul 2014 - Aug 2014</small>  
-    Software Delveopment Intern
-* **Nexol System Inc.** <small>Seoul, Korea. Jan 2015 - Mar 2015</small>  
-    Software Development Intern
-* **Geopia** <small>Seoul, Korea. Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>  
-    Full-Stack Software Developer
 * **Buzzni** <small>Seoul, Korea. Mar 2017 - July 2017</small>   
     Backend Software Engineer
+* **Geopia** <small>Seoul, Korea. Apr 2015 - Feb 2017 (Substitue of Mandatory Military Service)</small>  
+    Full-Stack Software Developer
+* **Nexol System Inc.** <small>Seoul, Korea. Jan 2015 - Mar 2015</small>  
+    Software Development Intern
+* **LG Electronics Inc.** <small>Seoul, Korea. Jul 2014 - Aug 2014</small>  
+    Software Delveopment Intern
 
 
 Honors & Awards

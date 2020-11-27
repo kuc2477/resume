@@ -1,4 +1,4 @@
-![Photo](https://en.gravatar.com/userimage/88915015/2c6d5786d2b480927676688336d80102.jpg?size=110) Ha Junsoo (河 俊 秀)  
+![Photo](https://en.gravatar.com/userimage/88915015/2c6d5786d2b480927676688336d80102.jpg?size=110) Junsoo Ha (河 俊 秀)  
 =======================================================================================================================
 
 Read with [Markdown](https://raw.github.com/kuc2477/resume/gh-pages/index.md) | [PDF](https://raw.github.com/kuc2477/resume/gh-pages/index.pdf) | [Source](http://github.com/kuc2477/resume)  
@@ -27,7 +27,6 @@ Education
 ---------
 * **Seoul National University** (Seoul)  
     - M.S. in Artificial Intelligence, <small>Sep 2020 - Aug 2022 (expected)</small>  
-<br/>
 * **Hanyang University** (Seoul)  
     - B.E. in Software, <small>Mar 2013 - Aug 2020</small>  
     - B.S. in Mathematics, <small>Aug 2014 - Aug 2020</small>  
@@ -39,7 +38,6 @@ Publications
 * A Neural Dicihlet Process Mixture Model for Task-Free Continual Learning  
     Soochan Lee, **Junsoo Ha**, Dongsu Zhang, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2020. 
-<br/>
 * Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation  
     Soochan Lee, **Junsoo Ha**, Gunhee Kim  
     *International Conference on Learning Representations (ICLR)*, 2019.

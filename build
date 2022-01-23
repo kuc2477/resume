@@ -5,7 +5,6 @@ branch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
 
 # build html and pdf
 PANDOCARGS='--latex-engine=xelatex' make html
-wkhtmltopdf ./index.html ./index.pdf
 
 # commit changes to source
 git add -A

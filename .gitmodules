@@ -1,3 +1,0 @@
-[submodule "pandoc-templates"]
-	path = pandoc-templates
-	url = https://github.com/jgm/pandoc-templates

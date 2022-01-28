@@ -27,6 +27,7 @@ li ul li:before { content: '\fe58'; padding-right: 0; }
   li ul li:before { content: '\fe58'; padding-right: 0.5em; }
 }
 tt { font-family: monospace; }
+a { color: maroon; text-decoration: none; }
 pre a { font-family: monospace; color: inherit; text-decoration: inherit; }
 .id { font-family: monospace; }
 .handle { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;

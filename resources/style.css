@@ -36,13 +36,17 @@ li ul li:before { content: '\fe58'; padding-right: 0; }
   }
   ul {
     margin-left: 0;
-    padding-left: 0.45em;
+    padding-left: 0;
   }
   ul li {
     padding-left: 0;
   }
-  ul li:before {
+  ul li:before,
+  li ul li:before {
+    content: none;
+    display: none;
     margin-left: 0;
+    padding-right: 0;
   }
 }
 tt { font-family: monospace; }
